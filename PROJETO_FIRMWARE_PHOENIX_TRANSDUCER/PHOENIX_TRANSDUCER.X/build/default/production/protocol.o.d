@@ -1,0 +1,24 @@
+build/default/production/protocol.o: protocol.c hardware.h uart.h tool.h \
+ i2c.h ad.h pwm.h timer.h ads1271.h encoder.h ds18s20.h butterworth.h
+
+hardware.h:
+
+uart.h:
+
+tool.h:
+
+i2c.h:
+
+ad.h:
+
+pwm.h:
+
+timer.h:
+
+ads1271.h:
+
+encoder.h:
+
+ds18s20.h:
+
+butterworth.h:

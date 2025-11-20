@@ -1,0 +1,15 @@
+void ADS1271ClockEnable(unsigned char state);
+void ADS1271StartConv(void);
+void ADS1271Init(void);
+void ADS1271InterruptHandler(void);
+long ADS1271SpiRead(void);
+void ADS1271SetClock(void);
+extern long lADS1271Value;
+extern long lADS1271PrevValue;
+extern unsigned char lADS1271SampleIndex;
+extern unsigned char ucADS1271ConvReady;
+extern long lADS1271Data[OFFSET_SAMPLES];
+extern long lADS1271ValueMax;
+extern long lADS1271ValueMin;
+extern unsigned char ucADS1271ValueReady;
+extern long lTorqueOffset;

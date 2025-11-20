@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "D:\\Documentos\\M.SHIMIZU\\PROJETOS\\Hardware\\Transdutor\\Firmware\\PHOENIX_TRANSDUCER\\PHOENIX_TRANSDUCER.X"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"hardware.h": "c"
+		}
+	}
+}

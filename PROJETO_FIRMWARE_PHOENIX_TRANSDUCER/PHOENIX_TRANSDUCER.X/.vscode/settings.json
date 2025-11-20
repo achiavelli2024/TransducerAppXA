@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "hardware.h": "c",
+        "xc.h": "c",
+        "peakfinder.h": "c",
+        "ads1271.h": "c",
+        "timer.h": "c",
+        "uart.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

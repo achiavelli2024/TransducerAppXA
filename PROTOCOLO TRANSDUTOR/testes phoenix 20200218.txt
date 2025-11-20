@@ -1,0 +1,3224 @@
+'Transducers.Test.vshost.exe' (CLR v4.0.30319: Transducers.Test.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_64\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Transducers.Test.vshost.exe' (CLR v4.0.30319: Transducers.Test.vshost.exe): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities\12.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Transducers.Test.vshost.exe' (CLR v4.0.30319: Transducers.Test.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Transducers.Test.vshost.exe' (CLR v4.0.30319: Transducers.Test.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Transducers.Test.vshost.exe' (CLR v4.0.30319: Transducers.Test.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Transducers.Test.vshost.exe' (CLR v4.0.30319: Transducers.Test.vshost.exe): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities.Sync\12.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Transducers.Test.vshost.exe' (CLR v4.0.30319: Transducers.Test.vshost.exe): Loaded 'C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.Debugger.Runtime\12.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Debugger.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Transducers.Test.vshost.exe' (CLR v4.0.30319: Transducers.Test.vshost.exe): Loaded 'D:\__C#\LIB\Transducer\SW\Transducers\Transducers.Test\bin\Debug\Transducers.Test.vshost.exe'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Transducers.Test.vshost.exe' (CLR v4.0.30319: Transducers.Test.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Transducers.Test.vshost.exe' (CLR v4.0.30319: Transducers.Test.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Management\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Management.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Transducers.Test.vshost.exe' (CLR v4.0.30319: Transducers.Test.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Transducers.Test.vshost.exe' (CLR v4.0.30319: Transducers.Test.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Data.DataSetExtensions\v4.0_4.0.0.0__b77a5c561934e089\System.Data.DataSetExtensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Transducers.Test.vshost.exe' (CLR v4.0.30319: Transducers.Test.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Microsoft.CSharp\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.CSharp.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Transducers.Test.vshost.exe' (CLR v4.0.30319: Transducers.Test.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_64\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Transducers.Test.vshost.exe' (CLR v4.0.30319: Transducers.Test.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Deployment\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Deployment.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Transducers.Test.vshost.exe' (CLR v4.0.30319: Transducers.Test.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Transducers.Test.vshost.exe' (CLR v4.0.30319: Transducers.Test.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_pt-BR_b77a5c561934e089\mscorlib.resources.dll'. Module was built without symbols.
+The thread 0x23e4 has exited with code 259 (0x103).
+The thread 0x3728 has exited with code 259 (0x103).
+'Transducers.Test.vshost.exe' (CLR v4.0.30319: Transducers.Test.vshost.exe): Loaded 'D:\__C#\LIB\Transducer\SW\Transducers\Transducers.Test\bin\Debug\Transducers.Test.exe'. Symbols loaded.
+'Transducers.Test.vshost.exe' (CLR v4.0.30319: Transducers.Test.vshost.exe): Loaded 'C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Transducers.Test.vshost.exe' (CLR v4.0.30319: Transducers.Test.vshost.exe): Loaded 'D:\__C#\LIB\Transducer\SW\Transducers\Transducers.Test\bin\Debug\ITransducers.dll'. Symbols loaded.
+The thread 0x223c has exited with code 259 (0x103).
+'Transducers.Test.vshost.exe' (CLR v4.0.30319: Transducers.Test.vshost.exe): Loaded 'D:\__C#\LIB\Transducer\SW\Transducers\Transducers.Test\bin\Debug\Transducers.dll'. Symbols loaded.
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x3c64 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445520828
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445520843
+<-TX: 445520921 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445521296 :[00000A668AA8ID25]
+<-TX: 445521312 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445521359 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445521453 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO000087C50000000081]->RX(s one):00000A668AA8ZO000087C500000000
+package 445521468 :[00000A668AA8ZO000087C50000000081]
+<-TX: 445521562 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO000087C50000000081]->RX(s one):00000A668AA8ZO000087C500000000
+package 445521593 :[00000A668AA8ZO000087C50000000081]
+<-TX: 445521703 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445521734 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445521859 :[00000A668AA8DSA3]
+incomplete. wait. bytes:11 as:0 mes:
+incomplete. wait. bytes:11 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DSB80075DF0000010101102D03E80003000000E9000087C5B2]->RX(s one):00000A668AA8DSB80075DF0000010101102D03E80003000000E9000087C5
+package 445521890 :[00000A668AA8DSB80075DF0000010101102D03E80003000000E9000087C5B2]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x28e0 has exited with code 259 (0x103).
+The thread 0x236c has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x1d0c has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x1f9c has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x353c has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445525046
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445525062
+<-TX: 445525203 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445525546 :[00000A668AA8ID25]
+<-TX: 445525578 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445525625 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445525703 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO000085C5000000006E]->RX(s one):00000A668AA8ZO000085C500000000
+package 445525718 :[00000A668AA8ZO000085C5000000006E]
+<-TX: 445525828 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO000085C5000000006E]->RX(s one):00000A668AA8ZO000085C500000000
+package 445525875 :[00000A668AA8ZO000085C5000000006E]
+<-TX: 445526046 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445526078 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+<-TX: 445526218 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80075DF0000010101102D03E80003000000ED000085C5A1]->RX(s one):00000A668AA8DSB80075DF0000010101102D03E80003000000ED000085C5
+package 445526281 :[00000A668AA8DSB80075DF0000010101102D03E80003000000ED000085C5A1]
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445526468 :[00000A668AA8DSA3]
+The thread 0x938 has exited with code 259 (0x103).
+The thread 0x3220 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x274c has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0xe8 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0xba8 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445528750
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445528781
+<-TX: 445528906 :[000000000000IDC1]
+incomplete. wait. bytes:10 as:0 mes:
+incomplete. wait. bytes:10 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445529234 :[00000A668AA8ID25]
+<-TX: 445529312 :[00000A668AA8DIFE]
+incomplete. wait. bytes:22 as:0 mes:
+incomplete. wait. bytes:22 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445529359 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445529453 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000897C000000003A]->RX(s one):00000A668AA8ZO0000897C00000000
+package 445529484 :[00000A668AA8ZO0000897C000000003A]
+<-TX: 445529625 :[00000A668AA8ZO01A9]
+incomplete. wait. bytes:21 as:0 mes:
+incomplete. wait. bytes:21 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8ZO0000897C000000003A]->RX(s one):00000A668AA8ZO0000897C00000000
+package 445529656 :[00000A668AA8ZO0000897C000000003A]
+<-TX: 445529765 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445529781 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445529906 :[00000A668AA8DSA3]
+incomplete. wait. bytes:14 as:0 mes:
+incomplete. wait. bytes:14 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DSB80075DF0000010101102D03E80003000000F10000897C0B]->RX(s one):00000A668AA8DSB80075DF0000010101102D03E80003000000F10000897C
+package 445529953 :[00000A668AA8DSB80075DF0000010101102D03E80003000000F10000897C0B]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445530375 :[00000A668AA8DSA3]
+The thread 0x2dac has exited with code 259 (0x103).
+The thread 0x1db8 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x295c has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x1da8 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x23e0 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445532546
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445532578
+<-TX: 445532703 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445533062 :[00000A668AA8ID25]
+<-TX: 445533140 :[00000A668AA8DIFE]
+incomplete. wait. bytes:44 as:0 mes:
+incomplete. wait. bytes:44 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445533187 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445533281 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO00008AB9000000006C]->RX(s one):00000A668AA8ZO00008AB900000000
+package 445533296 :[00000A668AA8ZO00008AB9000000006C]
+<-TX: 445533406 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO00008AB9000000006C]->RX(s one):00000A668AA8ZO00008AB900000000
+package 445533421 :[00000A668AA8ZO00008AB9000000006C]
+<-TX: 445533531 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445533562 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445533703 :[00000A668AA8DSA3]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+- ] found -
+->RX(s all):[00000A668AA8DSB80075DF0000010101102503E80003000000F500008AB9C6]->RX(s one):00000A668AA8DSB80075DF0000010101102503E80003000000F500008AB9
+package 445533734 :[00000A668AA8DSB80075DF0000010101102503E80003000000F500008AB9C6]
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445533968 :[00000A668AA8DSA3]
+The thread 0xee0 has exited with code 259 (0x103).
+The thread 0x2610 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2b98 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x34b0 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x3f5c has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445536234
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445536250
+<-TX: 445536375 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445536718 :[00000A668AA8ID25]
+<-TX: 445536750 :[00000A668AA8DIFE]
+incomplete. wait. bytes:55 as:0 mes:
+incomplete. wait. bytes:55 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445536796 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445536875 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000875C000000006C]->RX(s one):00000A668AA8ZO0000875C00000000
+package 445536890 :[00000A668AA8ZO0000875C000000006C]
+<-TX: 445537000 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000875C000000006C]->RX(s one):00000A668AA8ZO0000875C00000000
+package 445537015 :[00000A668AA8ZO0000875C000000006C]
+<-TX: 445537125 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445537156 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445537250 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80075DF0000010101102503E80003000000F80000875CC8]->RX(s one):00000A668AA8DSB80075DF0000010101102503E80003000000F80000875C
+package 445537281 :[00000A668AA8DSB80075DF0000010101102503E80003000000F80000875CC8]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445537750 :[00000A668AA8DSA3]
+The thread 0x3f40 has exited with code 259 (0x103).
+The thread 0x3e18 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x34c0 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x155c has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0xb7c has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445541625
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445541656
+<-TX: 445541828 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445542187 :[00000A668AA8ID25]
+<-TX: 445542218 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445542265 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445542375 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO00008910000000000B]->RX(s one):00000A668AA8ZO0000891000000000
+package 445542406 :[00000A668AA8ZO00008910000000000B]
+<-TX: 445542515 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO00008910000000000B]->RX(s one):00000A668AA8ZO0000891000000000
+package 445542531 :[00000A668AA8ZO00008910000000000B]
+<-TX: 445542656 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445542671 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445542765 :[00000A668AA8DSA3]
+incomplete. wait. bytes:11 as:0 mes:
+incomplete. wait. bytes:11 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DSB80075DF0001040101102D03E80003000000FE000089109B]->RX(s one):00000A668AA8DSB80075DF0001040101102D03E80003000000FE00008910
+package 445542812 :[00000A668AA8DSB80075DF0001040101102D03E80003000000FE000089109B]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445543453 :[00000A668AA8DSA3]
+The thread 0x3108 has exited with code 259 (0x103).
+The thread 0xa70 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x367c has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x1f50 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x3e34 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445546281
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445546312
+<-TX: 445546437 :[000000000000IDC1]
+incomplete. wait. bytes:8 as:0 mes:
+incomplete. wait. bytes:8 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445546765 :[00000A668AA8ID25]
+<-TX: 445546796 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445546828 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445546953 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO000085FF0000000014]->RX(s one):00000A668AA8ZO000085FF00000000
+package 445547000 :[00000A668AA8ZO000085FF0000000014]
+<-TX: 445547125 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO000085FF0000000014]->RX(s one):00000A668AA8ZO000085FF00000000
+package 445547140 :[00000A668AA8ZO000085FF0000000014]
+<-TX: 445547265 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445547296 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445547437 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80075DF0000010101102D03E8000300000103000085FFDB]->RX(s one):00000A668AA8DSB80075DF0000010101102D03E8000300000103000085FF
+package 445547468 :[00000A668AA8DSB80075DF0000010101102D03E8000300000103000085FFDB]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445548421 :[00000A668AA8DSA3]
+The thread 0x3b18 has exited with code 259 (0x103).
+The thread 0x2b88 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2b3c has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x3450 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x35f4 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445550656
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445550671
+<-TX: 445550718 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445551062 :[00000A668AA8ID25]
+<-TX: 445551078 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445551109 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445551203 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000890C0000000076]->RX(s one):00000A668AA8ZO0000890C00000000
+package 445551218 :[00000A668AA8ZO0000890C0000000076]
+<-TX: 445551328 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000890C0000000076]->RX(s one):00000A668AA8ZO0000890C00000000
+package 445551359 :[00000A668AA8ZO0000890C0000000076]
+<-TX: 445551468 :[00000A668AA8RC95]
+incomplete. wait. bytes:9 as:0 mes:
+incomplete. wait. bytes:9 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445551515 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445551609 :[00000A668AA8DSA3]
+incomplete. wait. bytes:42 as:0 mes:
+incomplete. wait. bytes:42 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DSB80075DF0000010101102D03E80003000001070000890C28]->RX(s one):00000A668AA8DSB80075DF0000010101102D03E80003000001070000890C
+package 445551640 :[00000A668AA8DSB80075DF0000010101102D03E80003000001070000890C28]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445552390 :[00000A668AA8DSA3]
+The thread 0x1cc4 has exited with code 259 (0x103).
+The thread 0x1c08 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x3b58 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x138c has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x1ffc has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445554781
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445554812
+<-TX: 445554968 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445555312 :[00000A668AA8ID25]
+<-TX: 445555328 :[00000A668AA8DIFE]
+incomplete. wait. bytes:47 as:0 mes:
+incomplete. wait. bytes:47 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445555375 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445555453 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000862E0000000035]->RX(s one):00000A668AA8ZO0000862E00000000
+package 445555468 :[00000A668AA8ZO0000862E0000000035]
+<-TX: 445555593 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000862E0000000035]->RX(s one):00000A668AA8ZO0000862E00000000
+package 445555625 :[00000A668AA8ZO0000862E0000000035]
+<-TX: 445555734 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445555765 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445555890 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80075DF0000010101102503E800030000010B0000862E4E]->RX(s one):00000A668AA8DSB80075DF0000010101102503E800030000010B0000862E
+package 445555921 :[00000A668AA8DSB80075DF0000010101102503E800030000010B0000862E4E]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445556375 :[00000A668AA8DSA3]
+The thread 0x670 has exited with code 259 (0x103).
+The thread 0x26f4 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x1b24 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x16f4 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x3f0c has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445558625
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445558640
+<-TX: 445558765 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445559109 :[00000A668AA8ID25]
+<-TX: 445559140 :[00000A668AA8DIFE]
+incomplete. wait. bytes:36 as:0 mes:
+incomplete. wait. bytes:36 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445559187 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445559281 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000898F00000000F0]->RX(s one):00000A668AA8ZO0000898F00000000
+package 445559312 :[00000A668AA8ZO0000898F00000000F0]
+<-TX: 445559421 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000898F00000000F0]->RX(s one):00000A668AA8ZO0000898F00000000
+package 445559437 :[00000A668AA8ZO0000898F00000000F0]
+<-TX: 445559609 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445559625 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445559765 :[00000A668AA8DSA3]
+incomplete. wait. bytes:41 as:0 mes:
+incomplete. wait. bytes:41 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DSB80075DF0000010101102503E800030000010F0000898F94]->RX(s one):00000A668AA8DSB80075DF0000010101102503E800030000010F0000898F
+package 445559812 :[00000A668AA8DSB80075DF0000010101102503E800030000010F0000898F94]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x222c has exited with code 259 (0x103).
+The thread 0x158c has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x3968 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2710 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2cc0 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445563140
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445563203
+<-TX: 445563281 :[000000000000IDC1]
+incomplete. wait. bytes:1 as:0 mes:
+incomplete. wait. bytes:1 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445563656 :[00000A668AA8ID25]
+<-TX: 445563703 :[00000A668AA8DIFE]
+incomplete. wait. bytes:35 as:0 mes:
+incomplete. wait. bytes:35 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445563750 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445563843 :[00000A668AA8ZO1009]
+incomplete. wait. bytes:19 as:0 mes:
+incomplete. wait. bytes:19 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8ZO0000886C0000000005]->RX(s one):00000A668AA8ZO0000886C00000000
+package 445563875 :[00000A668AA8ZO0000886C0000000005]
+<-TX: 445564000 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000886C0000000005]->RX(s one):00000A668AA8ZO0000886C00000000
+package 445564015 :[00000A668AA8ZO0000886C0000000005]
+<-TX: 445564156 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445564171 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445564281 :[00000A668AA8DSA3]
+incomplete. wait. bytes:17 as:0 mes:
+incomplete. wait. bytes:17 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102F03E80003000001130000886CD0]->RX(s one):00000A668AA8DSB80076110000010101102F03E80003000001130000886C
+package 445564328 :[00000A668AA8DSB80076110000010101102F03E80003000001130000886CD0]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445565625 :[00000A668AA8DSA3]
+The thread 0x3818 has exited with code 259 (0x103).
+The thread 0x2bc4 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x1c94 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x6b4 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2a20 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445567843
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445567875
+<-TX: 445567984 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445568312 :[00000A668AA8ID25]
+<-TX: 445568343 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445568375 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445568468 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO00008788000000009E]->RX(s one):00000A668AA8ZO0000878800000000
+package 445568500 :[00000A668AA8ZO00008788000000009E]
+<-TX: 445568593 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO00008788000000009E]->RX(s one):00000A668AA8ZO0000878800000000
+package 445568625 :[00000A668AA8ZO00008788000000009E]
+<-TX: 445568750 :[00000A668AA8RC95]
+incomplete. wait. bytes:57 as:0 mes:
+incomplete. wait. bytes:57 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445568796 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445568890 :[00000A668AA8DSA3]
+incomplete. wait. bytes:35 as:0 mes:
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+incomplete. wait. bytes:35 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102F03E800030000011800008788A2]->RX(s one):00000A668AA8DSB80076110000010101102F03E800030000011800008788
+package 445569000 :[00000A668AA8DSB80076110000010101102F03E800030000011800008788A2]
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445569218 :[00000A668AA8DSA3]
+The thread 0x4e8 has exited with code 259 (0x103).
+The thread 0x7d0 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2c5c has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x3874 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2eec has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445571468
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445571484
+<-TX: 445571687 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445572046 :[00000A668AA8ID25]
+<-TX: 445572078 :[00000A668AA8DIFE]
+incomplete. wait. bytes:10 as:0 mes:
+incomplete. wait. bytes:10 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445572109 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445572203 :[00000A668AA8ZO1009]
+incomplete. wait. bytes:31 as:0 mes:
+incomplete. wait. bytes:31 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8ZO000089FC00000000B4]->RX(s one):00000A668AA8ZO000089FC00000000
+package 445572250 :[00000A668AA8ZO000089FC00000000B4]
+<-TX: 445572328 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO000089FC00000000B4]->RX(s one):00000A668AA8ZO000089FC00000000
+package 445572343 :[00000A668AA8ZO000089FC00000000B4]
+<-TX: 445572453 :[00000A668AA8RC95]
+incomplete. wait. bytes:23 as:0 mes:
+incomplete. wait. bytes:23 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445572500 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445572609 :[00000A668AA8DSA3]
+incomplete. wait. bytes:9 as:0 mes:
+incomplete. wait. bytes:9 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102503E800030000011C000089FC40]->RX(s one):00000A668AA8DSB80076110000010101102503E800030000011C000089FC
+package 445572640 :[00000A668AA8DSB80076110000010101102503E800030000011C000089FC40]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445573093 :[00000A668AA8DSA3]
+The thread 0x2e20 has exited with code 259 (0x103).
+The thread 0x1718 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x34b8 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2ba4 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2bac has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445575296
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445575328
+<-TX: 445575437 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445575765 :[00000A668AA8ID25]
+<-TX: 445575796 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445575828 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445575921 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO000088D7000000005C]->RX(s one):00000A668AA8ZO000088D700000000
+package 445575953 :[00000A668AA8ZO000088D7000000005C]
+<-TX: 445576078 :[00000A668AA8ZO01A9]
+incomplete. wait. bytes:6 as:0 mes:
+incomplete. wait. bytes:6 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8ZO000088D7000000005C]->RX(s one):00000A668AA8ZO000088D700000000
+package 445576125 :[00000A668AA8ZO000088D7000000005C]
+<-TX: 445576234 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445576250 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445576421 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102503E8000300000120000088D730]->RX(s one):00000A668AA8DSB80076110000010101102503E8000300000120000088D7
+package 445576453 :[00000A668AA8DSB80076110000010101102503E8000300000120000088D730]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445576812 :[00000A668AA8DSA3]
+The thread 0x2da0 has exited with code 259 (0x103).
+The thread 0x28b4 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x38b4 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2368 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x3af0 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445579156
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445579171
+<-TX: 445579281 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445579609 :[00000A668AA8ID25]
+<-TX: 445579671 :[00000A668AA8DIFE]
+incomplete. wait. bytes:43 as:0 mes:
+incomplete. wait. bytes:43 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445579718 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445579812 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000892200000000F3]->RX(s one):00000A668AA8ZO0000892200000000
+package 445579828 :[00000A668AA8ZO0000892200000000F3]
+<-TX: 445579953 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000892200000000F3]->RX(s one):00000A668AA8ZO0000892200000000
+package 445579984 :[00000A668AA8ZO0000892200000000F3]
+<-TX: 445580093 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445580125 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445580265 :[00000A668AA8DSA3]
+incomplete. wait. bytes:36 as:0 mes:
+incomplete. wait. bytes:36 as:0 mes:
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000030101102503E8000300000123000089224C]->RX(s one):00000A668AA8DSB80076110000030101102503E800030000012300008922
+package 445580312 :[00000A668AA8DSB80076110000030101102503E8000300000123000089224C]
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x1b44 has exited with code 259 (0x103).
+The thread 0x358c has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2e58 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0xbe8 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x29dc has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445582796
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445582812
+<-TX: 445582953 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445583281 :[00000A668AA8ID25]
+<-TX: 445583296 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445583328 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445583437 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000890D000000004D]->RX(s one):00000A668AA8ZO0000890D00000000
+package 445583453 :[00000A668AA8ZO0000890D000000004D]
+<-TX: 445583578 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000890D000000004D]->RX(s one):00000A668AA8ZO0000890D00000000
+package 445583609 :[00000A668AA8ZO0000890D000000004D]
+<-TX: 445583718 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445583750 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445583859 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101103003E80003000001270000890D14]->RX(s one):00000A668AA8DSB80076110000010101103003E80003000001270000890D
+package 445583906 :[00000A668AA8DSB80076110000010101103003E80003000001270000890D14]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445584203 :[00000A668AA8DSA3]
+The thread 0x3394 has exited with code 259 (0x103).
+The thread 0x1e08 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x255c has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2b5c has exited with code 259 (0x103).
+The thread 0x2478 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2e04 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445586421
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445586437
+<-TX: 445586546 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445586859 :[00000A668AA8ID25]
+<-TX: 445586875 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445586921 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445587031 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000870C00000000B1]->RX(s one):00000A668AA8ZO0000870C00000000
+package 445587062 :[00000A668AA8ZO0000870C00000000B1]
+<-TX: 445587187 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000870C00000000B1]->RX(s one):00000A668AA8ZO0000870C00000000
+package 445587218 :[00000A668AA8ZO0000870C00000000B1]
+<-TX: 445587390 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445587406 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445587515 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101103003E800030000012B0000870CBC]->RX(s one):00000A668AA8DSB80076110000010101103003E800030000012B0000870C
+package 445587562 :[00000A668AA8DSB80076110000010101103003E800030000012B0000870CBC]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445587968 :[00000A668AA8DSA3]
+The thread 0x1de4 has exited with code 259 (0x103).
+The thread 0x3cfc has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2c78 has exited with code 259 (0x103).
+The thread 0x2c8c has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2328 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x28f0 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445591703
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445591750
+<-TX: 445591875 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445592218 :[00000A668AA8ID25]
+<-TX: 445592250 :[00000A668AA8DIFE]
+incomplete. wait. bytes:17 as:0 mes:
+incomplete. wait. bytes:17 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445592296 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445592421 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO000087FF00000000FB]->RX(s one):00000A668AA8ZO000087FF00000000
+package 445592453 :[00000A668AA8ZO000087FF00000000FB]
+<-TX: 445592562 :[00000A668AA8ZO01A9]
+incomplete. wait. bytes:7 as:0 mes:
+incomplete. wait. bytes:7 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8ZO000087FF00000000FB]->RX(s one):00000A668AA8ZO000087FF00000000
+package 445592593 :[00000A668AA8ZO000087FF00000000FB]
+<-TX: 445592703 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445592734 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445592843 :[00000A668AA8DSA3]
+incomplete. wait. bytes:22 as:0 mes:
+incomplete. wait. bytes:22 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102A03E8000300000130000087FF90]->RX(s one):00000A668AA8DSB80076110000010101102A03E8000300000130000087FF
+package 445592875 :[00000A668AA8DSB80076110000010101102A03E8000300000130000087FF90]
+The thread 0x3d58 has exited with code 259 (0x103).
+<-TX: 445594171 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102A03E8000300000131000087FF5B]->RX(s one):00000A668AA8DSB80076110000010101102A03E8000300000131000087FF
+package 445594234 :[00000A668AA8DSB80076110000010101102A03E8000300000131000087FF5B]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445595390 :[00000A668AA8DSA3]
+The thread 0x3048 has exited with code 259 (0x103).
+The thread 0x373c has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x1dac has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2434 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x260c has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445597578
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445597593
+<-TX: 445597703 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445598031 :[00000A668AA8ID25]
+<-TX: 445598062 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445598093 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445598203 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO000089C90000000083]->RX(s one):00000A668AA8ZO000089C900000000
+package 445598218 :[00000A668AA8ZO000089C90000000083]
+<-TX: 445598312 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO000089C90000000083]->RX(s one):00000A668AA8ZO000089C900000000
+package 445598343 :[00000A668AA8ZO000089C90000000083]
+<-TX: 445598453 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445598468 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445598593 :[00000A668AA8DSA3]
+incomplete. wait. bytes:10 as:0 mes:
+incomplete. wait. bytes:10 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102A03E8000300000136000089C90F]->RX(s one):00000A668AA8DSB80076110000010101102A03E8000300000136000089C9
+package 445598640 :[00000A668AA8DSB80076110000010101102A03E8000300000136000089C90F]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445599750 :[00000A668AA8DSA3]
+The thread 0x3df0 has exited with code 259 (0x103).
+The thread 0x2f74 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x1060 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2b70 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445601718
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445601734
+<-TX: 445601859 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445602187 :[00000A668AA8ID25]
+<-TX: 445602218 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445602250 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445602375 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO00008B8C0000000047]->RX(s one):00000A668AA8ZO00008B8C00000000
+package 445602406 :[00000A668AA8ZO00008B8C0000000047]
+<-TX: 445602531 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO00008B8C0000000047]->RX(s one):00000A668AA8ZO00008B8C00000000
+package 445602562 :[00000A668AA8ZO00008B8C0000000047]
+<-TX: 445602671 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445602718 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+<-TX: 445602859 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102503E800030000013A00008B8CFD]->RX(s one):00000A668AA8DSB80076110000010101102503E800030000013A00008B8C
+package 445602937 :[00000A668AA8DSB80076110000010101102503E800030000013A00008B8CFD]
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445603109 :[00000A668AA8DSA3]
+The thread 0x1e78 has exited with code 259 (0x103).
+The thread 0x1ea0 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2f4c has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2764 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x15e0 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445605359
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445605375
+<-TX: 445605500 :[000000000000IDC1]
+incomplete. wait. bytes:7 as:0 mes:
+incomplete. wait. bytes:7 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445605828 :[00000A668AA8ID25]
+<-TX: 445605859 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445605906 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445606015 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO000086810000000036]->RX(s one):00000A668AA8ZO0000868100000000
+package 445606031 :[00000A668AA8ZO000086810000000036]
+<-TX: 445606203 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO000086810000000036]->RX(s one):00000A668AA8ZO0000868100000000
+package 445606234 :[00000A668AA8ZO000086810000000036]
+<-TX: 445606359 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445606390 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445606500 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102503E800030000013E0000868133]->RX(s one):00000A668AA8DSB80076110000010101102503E800030000013E00008681
+package 445606531 :[00000A668AA8DSB80076110000010101102503E800030000013E0000868133]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445607156 :[00000A668AA8DSA3]
+The thread 0x2f24 has exited with code 259 (0x103).
+The thread 0x2f08 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2738 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x1f0c has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445609531
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445609546
+<-TX: 445609656 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445610015 :[00000A668AA8ID25]
+<-TX: 445610046 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445610078 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445610203 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000889A00000000F4]->RX(s one):00000A668AA8ZO0000889A00000000
+package 445610218 :[00000A668AA8ZO0000889A00000000F4]
+<-TX: 445610343 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000889A00000000F4]->RX(s one):00000A668AA8ZO0000889A00000000
+package 445610375 :[00000A668AA8ZO0000889A00000000F4]
+<-TX: 445610468 :[00000A668AA8RC95]
+incomplete. wait. bytes:20 as:0 mes:
+incomplete. wait. bytes:20 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445610515 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445610640 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102503E80003000001420000889A5C]->RX(s one):00000A668AA8DSB80076110000010101102503E80003000001420000889A
+package 445610687 :[00000A668AA8DSB80076110000010101102503E80003000001420000889A5C]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445611578 :[00000A668AA8DSA3]
+The thread 0x2d44 has exited with code 259 (0x103).
+The thread 0x1f14 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x15e4 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2d00 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x3ac4 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445613796
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445613812
+<-TX: 445613921 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445614281 :[00000A668AA8ID25]
+<-TX: 445614296 :[00000A668AA8DIFE]
+incomplete. wait. bytes:28 as:0 mes:
+incomplete. wait. bytes:28 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445614343 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445614468 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO00008758000000004D]->RX(s one):00000A668AA8ZO0000875800000000
+package 445614500 :[00000A668AA8ZO00008758000000004D]
+<-TX: 445614609 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO00008758000000004D]->RX(s one):00000A668AA8ZO0000875800000000
+package 445614640 :[00000A668AA8ZO00008758000000004D]
+<-TX: 445614765 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445614796 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445614937 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102803E800030000014600008758F4]->RX(s one):00000A668AA8DSB80076110000010101102803E800030000014600008758
+package 445615000 :[00000A668AA8DSB80076110000010101102803E800030000014600008758F4]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445615328 :[00000A668AA8DSA3]
+The thread 0x25fc has exited with code 259 (0x103).
+The thread 0x2fd4 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x3c54 has exited with code 259 (0x103).
+The thread 0x3204 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x3438 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x1860 has exited with code 259 (0x103).
+The thread 0x2654 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445617578
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445617609
+<-TX: 445617750 :[000000000000IDC1]
+incomplete. wait. bytes:4 as:0 mes:
+incomplete. wait. bytes:4 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445618062 :[00000A668AA8ID25]
+<-TX: 445618093 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445618125 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445618218 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO000086C6000000001C]->RX(s one):00000A668AA8ZO000086C600000000
+package 445618234 :[00000A668AA8ZO000086C6000000001C]
+<-TX: 445618359 :[00000A668AA8ZO01A9]
+incomplete. wait. bytes:19 as:0 mes:
+incomplete. wait. bytes:19 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8ZO000086C6000000001C]->RX(s one):00000A668AA8ZO000086C600000000
+package 445618406 :[00000A668AA8ZO000086C6000000001C]
+<-TX: 445618500 :[00000A668AA8RC95]
+incomplete. wait. bytes:20 as:0 mes:
+incomplete. wait. bytes:20 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445618546 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445618640 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102803E800030000014A000086C665]->RX(s one):00000A668AA8DSB80076110000010101102803E800030000014A000086C6
+package 445618671 :[00000A668AA8DSB80076110000010101102803E800030000014A000086C665]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445619343 :[00000A668AA8DSA3]
+The thread 0xd8 has exited with code 259 (0x103).
+The thread 0x118 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x1e70 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2df0 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x1ad0 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445622015
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445622046
+<-TX: 445622156 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445622531 :[00000A668AA8ID25]
+<-TX: 445622578 :[00000A668AA8DIFE]
+incomplete. wait. bytes:14 as:0 mes:
+incomplete. wait. bytes:14 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445622625 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445622718 :[00000A668AA8ZO1009]
+incomplete. wait. bytes:16 as:0 mes:
+incomplete. wait. bytes:16 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8ZO000087770000000061]->RX(s one):00000A668AA8ZO0000877700000000
+package 445622750 :[00000A668AA8ZO000087770000000061]
+<-TX: 445622843 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO000087770000000061]->RX(s one):00000A668AA8ZO0000877700000000
+package 445622875 :[00000A668AA8ZO000087770000000061]
+<-TX: 445622984 :[00000A668AA8RC95]
+incomplete. wait. bytes:39 as:0 mes:
+incomplete. wait. bytes:39 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445623015 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445623140 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102C03E800030000014E00008777E6]->RX(s one):00000A668AA8DSB80076110000010101102C03E800030000014E00008777
+package 445623187 :[00000A668AA8DSB80076110000010101102C03E800030000014E00008777E6]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+<-TX: 445624468 :[00000A668AA8DSA3]
+incomplete. wait. bytes:8 as:0 mes:
+incomplete. wait. bytes:8 as:0 mes:
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102C03E8000300000150000087776B]->RX(s one):00000A668AA8DSB80076110000010101102C03E800030000015000008777
+package 445624546 :[00000A668AA8DSB80076110000010101102C03E8000300000150000087776B]
+The thread 0x3018 has exited with code 259 (0x103).
+The thread 0x2940 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x24ac has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2ea4 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445626734
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445626750
+<-TX: 445626890 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445627218 :[00000A668AA8ID25]
+<-TX: 445627250 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445627281 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445627375 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO000085E00000000070]->RX(s one):00000A668AA8ZO000085E000000000
+package 445627406 :[00000A668AA8ZO000085E00000000070]
+<-TX: 445627531 :[00000A668AA8ZO01A9]
+incomplete. wait. bytes:33 as:0 mes:
+incomplete. wait. bytes:33 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8ZO000085E00000000070]->RX(s one):00000A668AA8ZO000085E000000000
+package 445627578 :[00000A668AA8ZO000085E00000000070]
+<-TX: 445627687 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445627703 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445627828 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102C03E8000300000153000085E0B3]->RX(s one):00000A668AA8DSB80076110000010101102C03E8000300000153000085E0
+package 445627859 :[00000A668AA8DSB80076110000010101102C03E8000300000153000085E0B3]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445628796 :[00000A668AA8DSA3]
+The thread 0x15bc has exited with code 259 (0x103).
+The thread 0x568 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x960 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x3c40 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2bf4 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445631015
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445631031
+<-TX: 445631156 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445631484 :[00000A668AA8ID25]
+<-TX: 445631515 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445631562 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445631718 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000891200000000B8]->RX(s one):00000A668AA8ZO0000891200000000
+package 445631750 :[00000A668AA8ZO0000891200000000B8]
+<-TX: 445631859 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000891200000000B8]->RX(s one):00000A668AA8ZO0000891200000000
+package 445631875 :[00000A668AA8ZO0000891200000000B8]
+<-TX: 445631984 :[00000A668AA8RC95]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445632031 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445632125 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076430000010101102B03E800030000015700008912F1]->RX(s one):00000A668AA8DSB80076430000010101102B03E800030000015700008912
+package 445632187 :[00000A668AA8DSB80076430000010101102B03E800030000015700008912F1]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2160 has exited with code 259 (0x103).
+The thread 0x2e64 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2aa8 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x3d4 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2ec8 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445634796
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445634828
+<-TX: 445634921 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445635265 :[00000A668AA8ID25]
+<-TX: 445635281 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445635359 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445635437 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000874200000000A2]->RX(s one):00000A668AA8ZO0000874200000000
+package 445635453 :[00000A668AA8ZO0000874200000000A2]
+<-TX: 445635578 :[00000A668AA8ZO01A9]
+incomplete. wait. bytes:26 as:0 mes:
+incomplete. wait. bytes:26 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8ZO0000874200000000A2]->RX(s one):00000A668AA8ZO0000874200000000
+package 445635625 :[00000A668AA8ZO0000874200000000A2]
+<-TX: 445635718 :[00000A668AA8RC95]
+incomplete. wait. bytes:52 as:0 mes:
+incomplete. wait. bytes:52 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445635750 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445635875 :[00000A668AA8DSA3]
+incomplete. wait. bytes:61 as:0 mes:
+incomplete. wait. bytes:61 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DSB80076430000010101102B03E800030000015B0000874279]->RX(s one):00000A668AA8DSB80076430000010101102B03E800030000015B00008742
+package 445635921 :[00000A668AA8DSB80076430000010101102B03E800030000015B0000874279]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445636828 :[00000A668AA8DSA3]
+The thread 0x2124 has exited with code 259 (0x103).
+The thread 0x1658 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x57c has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x3dd8 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x6e8 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445641281
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445641312
+<-TX: 445641421 :[000000000000IDC1]
+incomplete. wait. bytes:15 as:0 mes:
+incomplete. wait. bytes:15 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445641765 :[00000A668AA8ID25]
+<-TX: 445641828 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445641859 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445641968 :[00000A668AA8ZO1009]
+incomplete. wait. bytes:1 as:0 mes:
+incomplete. wait. bytes:1 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8ZO000087B5000000005B]->RX(s one):00000A668AA8ZO000087B500000000
+package 445642015 :[00000A668AA8ZO000087B5000000005B]
+<-TX: 445642109 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO000087B5000000005B]->RX(s one):00000A668AA8ZO000087B500000000
+package 445642125 :[00000A668AA8ZO000087B5000000005B]
+<-TX: 445642250 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445642281 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445642390 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102703E8000300000161000087B59F]->RX(s one):00000A668AA8DSB80076110000010101102703E8000300000161000087B5
+package 445642453 :[00000A668AA8DSB80076110000010101102703E8000300000161000087B59F]
+<-TX: 445643703 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102703E8000300000163000087B52C]->RX(s one):00000A668AA8DSB80076110000010101102703E8000300000163000087B5
+package 445643750 :[00000A668AA8DSB80076110000010101102703E8000300000163000087B52C]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+<-TX: 445645062 :[00000A668AA8DSA3]
+incomplete. wait. bytes:39 as:0 mes:
+incomplete. wait. bytes:39 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102703E8000300000164000087B517]->RX(s one):00000A668AA8DSB80076110000010101102703E8000300000164000087B5
+package 445645109 :[00000A668AA8DSB80076110000010101102703E8000300000164000087B517]
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x3470 has exited with code 259 (0x103).
+The thread 0x3a98 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x272c has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x740 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x860 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445647656
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445647703
+<-TX: 445647812 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445648171 :[00000A668AA8ID25]
+<-TX: 445648203 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445648250 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445648328 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO00008A52000000008A]->RX(s one):00000A668AA8ZO00008A5200000000
+package 445648343 :[00000A668AA8ZO00008A52000000008A]
+<-TX: 445648453 :[00000A668AA8ZO01A9]
+incomplete. wait. bytes:8 as:0 mes:
+incomplete. wait. bytes:8 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8ZO00008A52000000008A]->RX(s one):00000A668AA8ZO00008A5200000000
+package 445648484 :[00000A668AA8ZO00008A52000000008A]
+<-TX: 445648562 :[00000A668AA8RC95]
+incomplete. wait. bytes:39 as:0 mes:
+incomplete. wait. bytes:39 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445648609 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445648703 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102703E800030000016800008A5228]->RX(s one):00000A668AA8DSB80076110000010101102703E800030000016800008A52
+package 445648734 :[00000A668AA8DSB80076110000010101102703E800030000016800008A5228]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445649218 :[00000A668AA8DSA3]
+The thread 0x3a58 has exited with code 259 (0x103).
+The thread 0x311c has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0xcb8 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x19b8 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x30f8 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445651515
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445651546
+<-TX: 445651656 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445651984 :[00000A668AA8ID25]
+<-TX: 445652015 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445652046 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445652171 :[00000A668AA8ZO1009]
+incomplete. wait. bytes:26 as:0 mes:
+incomplete. wait. bytes:26 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8ZO000089570000000037]->RX(s one):00000A668AA8ZO0000895700000000
+package 445652218 :[00000A668AA8ZO000089570000000037]
+<-TX: 445652312 :[00000A668AA8ZO01A9]
+incomplete. wait. bytes:23 as:0 mes:
+incomplete. wait. bytes:23 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8ZO000089570000000037]->RX(s one):00000A668AA8ZO0000895700000000
+package 445652343 :[00000A668AA8ZO000089570000000037]
+<-TX: 445652453 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445652468 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+<-TX: 445652578 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102F03E800030000016C000089575A]->RX(s one):00000A668AA8DSB80076110000010101102F03E800030000016C00008957
+package 445652625 :[00000A668AA8DSB80076110000010101102F03E800030000016C000089575A]
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445652796 :[00000A668AA8DSA3]
+The thread 0x2238 has exited with code 259 (0x103).
+The thread 0x2d58 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x3f3c has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2164 has exited with code 259 (0x103).
+The thread 0x1008 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x3fd8 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445655078
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445655109
+<-TX: 445655218 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445655562 :[00000A668AA8ID25]
+<-TX: 445655578 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445655625 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445655703 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO000087A700000000A3]->RX(s one):00000A668AA8ZO000087A700000000
+package 445655734 :[00000A668AA8ZO000087A700000000A3]
+<-TX: 445655890 :[00000A668AA8ZO01A9]
+incomplete. wait. bytes:33 as:0 mes:
+incomplete. wait. bytes:33 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8ZO000087A700000000A3]->RX(s one):00000A668AA8ZO000087A700000000
+package 445655937 :[00000A668AA8ZO000087A700000000A3]
+<-TX: 445656046 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445656078 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445656218 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102F03E800030000016F000087A73E]->RX(s one):00000A668AA8DSB80076110000010101102F03E800030000016F000087A7
+package 445656281 :[00000A668AA8DSB80076110000010101102F03E800030000016F000087A73E]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445656671 :[00000A668AA8DSA3]
+The thread 0x874 has exited with code 259 (0x103).
+The thread 0x810 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2138 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x3fa4 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2a64 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445658921
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445658937
+<-TX: 445659062 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445659390 :[00000A668AA8ID25]
+<-TX: 445659421 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445659468 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445659593 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO000089A500000000D7]->RX(s one):00000A668AA8ZO000089A500000000
+package 445659625 :[00000A668AA8ZO000089A500000000D7]
+<-TX: 445659750 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO000089A500000000D7]->RX(s one):00000A668AA8ZO000089A500000000
+package 445659765 :[00000A668AA8ZO000089A500000000D7]
+<-TX: 445659890 :[00000A668AA8RC95]
+incomplete. wait. bytes:52 as:0 mes:
+incomplete. wait. bytes:52 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445659937 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445660031 :[00000A668AA8DSA3]
+incomplete. wait. bytes:60 as:0 mes:
+incomplete. wait. bytes:60 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102F03E8000300000173000089A5FD]->RX(s one):00000A668AA8DSB80076110000010101102F03E8000300000173000089A5
+package 445660062 :[00000A668AA8DSB80076110000010101102F03E8000300000173000089A5FD]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445660484 :[00000A668AA8DSA3]
+The thread 0xf40 has exited with code 259 (0x103).
+The thread 0x28b0 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x7e8 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x9f8 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x3b90 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445662703
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445662718
+<-TX: 445662812 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445663156 :[00000A668AA8ID25]
+<-TX: 445663171 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445663234 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445663328 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO00008812000000005D]->RX(s one):00000A668AA8ZO0000881200000000
+package 445663359 :[00000A668AA8ZO00008812000000005D]
+<-TX: 445663484 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO00008812000000005D]->RX(s one):00000A668AA8ZO0000881200000000
+package 445663515 :[00000A668AA8ZO00008812000000005D]
+<-TX: 445663625 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445663656 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+<-TX: 445663828 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101103103E80003000001770000881239]->RX(s one):00000A668AA8DSB80076110000010101103103E800030000017700008812
+package 445663890 :[00000A668AA8DSB80076110000010101103103E80003000001770000881239]
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445664078 :[00000A668AA8DSA3]
+The thread 0x1264 has exited with code 259 (0x103).
+The thread 0x3908 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x32dc has exited with code 259 (0x103).
+The thread 0x2570 has exited with code 259 (0x103).
+The thread 0x2cec has exited with code 259 (0x103).
+The thread 0x2344 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x3820 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x1a70 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445685359
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445685390
+<-TX: 445685500 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445685843 :[00000A668AA8ID25]
+<-TX: 445685921 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445685984 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445686078 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO000088FB000000009A]->RX(s one):00000A668AA8ZO000088FB00000000
+package 445686093 :[00000A668AA8ZO000088FB000000009A]
+<-TX: 445686218 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO000088FB000000009A]->RX(s one):00000A668AA8ZO000088FB00000000
+package 445686250 :[00000A668AA8ZO000088FB000000009A]
+<-TX: 445686359 :[00000A668AA8RC95]
+incomplete. wait. bytes:23 as:0 mes:
+incomplete. wait. bytes:23 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445686390 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445686484 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102C03E800030000018E000088FB4E]->RX(s one):00000A668AA8DSB80076110000010101102C03E800030000018E000088FB
+package 445686515 :[00000A668AA8DSB80076110000010101102C03E800030000018E000088FB4E]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445687109 :[00000A668AA8DSA3]
+The thread 0x2ad8 has exited with code 259 (0x103).
+The thread 0x178 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x26d8 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2300 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445689812
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445689843
+<-TX: 445689953 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445690296 :[00000A668AA8ID25]
+<-TX: 445690328 :[00000A668AA8DIFE]
+incomplete. wait. bytes:22 as:0 mes:
+incomplete. wait. bytes:22 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445690375 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445690468 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000848B000000007E]->RX(s one):00000A668AA8ZO0000848B00000000
+package 445690500 :[00000A668AA8ZO0000848B000000007E]
+<-TX: 445690609 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000848B000000007E]->RX(s one):00000A668AA8ZO0000848B00000000
+package 445690640 :[00000A668AA8ZO0000848B000000007E]
+<-TX: 445690750 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445690765 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445690890 :[00000A668AA8DSA3]
+incomplete. wait. bytes:23 as:0 mes:
+incomplete. wait. bytes:23 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102C03E80003000001920000848BCD]->RX(s one):00000A668AA8DSB80076110000010101102C03E80003000001920000848B
+package 445690937 :[00000A668AA8DSB80076110000010101102C03E80003000001920000848BCD]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445691375 :[00000A668AA8DSA3]
+The thread 0x34d0 has exited with code 259 (0x103).
+The thread 0x3ac8 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x1830 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x1258 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x3cb8 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445694031
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445694062
+<-TX: 445694109 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445694437 :[00000A668AA8ID25]
+<-TX: 445694468 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445694515 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445694625 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000884500000000BB]->RX(s one):00000A668AA8ZO0000884500000000
+package 445694671 :[00000A668AA8ZO0000884500000000BB]
+<-TX: 445694781 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000884500000000BB]->RX(s one):00000A668AA8ZO0000884500000000
+package 445694812 :[00000A668AA8ZO0000884500000000BB]
+<-TX: 445694921 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445694937 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445695046 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102F03E800030000019600008845E1]->RX(s one):00000A668AA8DSB80076110000010101102F03E800030000019600008845
+package 445695078 :[00000A668AA8DSB80076110000010101102F03E800030000019600008845E1]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2d90 has exited with code 259 (0x103).
+The thread 0x3788 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x32d0 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x3770 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x25c0 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445697843
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445697875
+<-TX: 445697968 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445698312 :[00000A668AA8ID25]
+<-TX: 445698343 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445698406 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445698484 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO000089AB0000000033]->RX(s one):00000A668AA8ZO000089AB00000000
+package 445698500 :[00000A668AA8ZO000089AB0000000033]
+<-TX: 445698640 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO000089AB0000000033]->RX(s one):00000A668AA8ZO000089AB00000000
+package 445698656 :[00000A668AA8ZO000089AB0000000033]
+<-TX: 445698781 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445698796 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445698921 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102F03E800030000019A000089ABB4]->RX(s one):00000A668AA8DSB80076110000010101102F03E800030000019A000089AB
+package 445698968 :[00000A668AA8DSB80076110000010101102F03E800030000019A000089ABB4]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445699687 :[00000A668AA8DSA3]
+The thread 0x1d20 has exited with code 259 (0x103).
+The thread 0x1708 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x3724 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x1e00 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2528 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445701968
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445701984
+<-TX: 445702109 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445702453 :[00000A668AA8ID25]
+<-TX: 445702468 :[00000A668AA8DIFE]
+incomplete. wait. bytes:26 as:0 mes:
+incomplete. wait. bytes:26 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445702515 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445702609 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO000088F60000000006]->RX(s one):00000A668AA8ZO000088F600000000
+package 445702640 :[00000A668AA8ZO000088F60000000006]
+<-TX: 445702750 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO000088F60000000006]->RX(s one):00000A668AA8ZO000088F600000000
+package 445702765 :[00000A668AA8ZO000088F60000000006]
+<-TX: 445702875 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445702890 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445703000 :[00000A668AA8DSA3]
+incomplete. wait. bytes:19 as:0 mes:
+incomplete. wait. bytes:19 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DSB80076430000010101102C03E800030000019E000088F6AF]->RX(s one):00000A668AA8DSB80076430000010101102C03E800030000019E000088F6
+package 445703031 :[00000A668AA8DSB80076430000010101102C03E800030000019E000088F6AF]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445703562 :[00000A668AA8DSA3]
+The thread 0x764 has exited with code 259 (0x103).
+The thread 0x514 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0xcf8 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2b94 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2618 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445705812
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445705828
+<-TX: 445705921 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445706265 :[00000A668AA8ID25]
+<-TX: 445706281 :[00000A668AA8DIFE]
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445706343 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445706421 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO000089D00000000082]->RX(s one):00000A668AA8ZO000089D000000000
+package 445706453 :[00000A668AA8ZO000089D00000000082]
+<-TX: 445706562 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO000089D00000000082]->RX(s one):00000A668AA8ZO000089D000000000
+package 445706593 :[00000A668AA8ZO000089D00000000082]
+<-TX: 445706687 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445706718 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445706859 :[00000A668AA8DSA3]
+incomplete. wait. bytes:40 as:0 mes:
+incomplete. wait. bytes:40 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DSB80076430000010101102C03E80003000001A2000089D081]->RX(s one):00000A668AA8DSB80076430000010101102C03E80003000001A2000089D0
+package 445706953 :[00000A668AA8DSB80076430000010101102C03E80003000001A2000089D081]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445707265 :[00000A668AA8DSA3]
+The thread 0x21c has exited with code 259 (0x103).
+The thread 0x4b0 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x11f4 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x48c has exited with code 259 (0x103).
+%%%%%%%%%%%%% StartService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x2de8 has exited with code 259 (0x103).
+%%%%%%%%%%%%% OPEN PORT %%%%%%%%%%%%%%%%%% COM50 baudrate:115200 445709562
+%%%%%%%%%%%%% PORT OPENED %%%%%%%%%%%%%%%%%% 445709578
+<-TX: 445709703 :[000000000000IDC1]
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+incomplete. wait. bytes:18 as:0 mes:
+Abort garbage. bytes:18 as:0 mes:
+->RX(s all):[00000A668AA8ID25]->RX(s one):00000A668AA8ID
+package 445710031 :[00000A668AA8ID25]
+<-TX: 445710093 :[00000A668AA8DIFE]
+incomplete. wait. bytes:54 as:0 mes:
+incomplete. wait. bytes:54 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]->RX(s one):00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F400000000
+package 445710140 :[00000A668AA8DI12A00001MSRTA-750-20                    2.001.15010000101F40002D7988000001F40000000051]
+INFO - sn:12A00001 model:MSRTA-750-20                     hw:2.00 fw:1.15 type:01 cap:000010 TorqueConversionFactor:2,980232E-06 AngleConversionFactor:0,5
+<-TX: 445710234 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO000088530000000091]->RX(s one):00000A668AA8ZO0000885300000000
+package 445710265 :[00000A668AA8ZO000088530000000091]
+<-TX: 445710359 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO000088530000000091]->RX(s one):00000A668AA8ZO0000885300000000
+package 445710375 :[00000A668AA8ZO000088530000000091]
+<-TX: 445710484 :[00000A668AA8RC95]
+incomplete. wait. bytes:12 as:0 mes:
+incomplete. wait. bytes:12 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8RC0000035D0000000000000000000000000000000056]->RX(s one):00000A668AA8RC0000035D00000000000000000000000000000000
+package 445710531 :[00000A668AA8RC0000035D0000000000000000000000000000000056]
+<-TX: 445710609 :[00000A668AA8DSA3]
+incomplete. wait. bytes:34 as:0 mes:
+incomplete. wait. bytes:34 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DSB80076430000010101102C03E80003000001A600008853FF]->RX(s one):00000A668AA8DSB80076430000010101102C03E80003000001A600008853
+package 445710656 :[00000A668AA8DSB80076430000010101102C03E80003000001A600008853FF]
+---------- InitRead
+<-TX: 445710968 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO000087BF00000000FC]->RX(s one):00000A668AA8ZO000087BF00000000
+package 445711000 :[00000A668AA8ZO000087BF00000000FC]
+<-TX: 445711093 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO000087BF00000000FC]->RX(s one):00000A668AA8ZO000087BF00000000
+package 445711109 :[00000A668AA8ZO000087BF00000000FC]
+<-TX: 445711218 :[00000A668AA8SA00051EB8001999990190000101F40001F3]
+- ] found -
+->RX(s all):[00000A668AA8SA0056]->RX(s one):00000A668AA8SA00
+package 445711234 :[00000A668AA8SA0056]
+<-TX: 445711343 :[00000A668AA8CS1E1E1489]
+The thread 0x1c3c has exited with code 259 (0x103).
+- ] found -
+->RX(s all):[00000A668AA8CS0031]->RX(s one):00000A668AA8CS00
+package 445711359 :[00000A668AA8CS0031]
+<-TX: 445711468 :[00000A668AA8SB002978D5003333330023D70A000000C800000258000000140000000062]
+incomplete. wait. bytes:16 as:0 mes:
+incomplete. wait. bytes:16 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8ER030C]->RX(s one):00000A668AA8ER03
+######## TRASDUCER RETURNS ERR consec:1 type:3
+err package 445711515 :[00000A668AA8ER030C]
+<-TX: 445711718 :[00000A668AA8SB002978D5003333330023D70A000000C800000258000000140000000062]
+- ] found -
+->RX(s all):[00000A668AA8ER030C]->RX(s one):00000A668AA8ER03
+######## TRASDUCER RETURNS ERR consec:2 type:3
+err package 445711750 :[00000A668AA8ER030C]
+<-TX: 445711875 :[00000A668AA8SC003200320000000000000000000000000000000000000000000000003D]
+- ] found -
+->RX(s all):[00000A668AA8SC0094]->RX(s one):00000A668AA8SC00
+package 445711906 :[00000A668AA8SC0094]
+<-TX: 445712000 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076430000010101102C03E80003000001A7000087BFE4]->RX(s one):00000A668AA8DSB80076430000010101102C03E80003000001A7000087BF
+package 445712062 :[00000A668AA8DSB80076430000010101102C03E80003000001A7000087BFE4]
+<-TX: 445712140 :[00000A668AA8TQB4]
+- ] found -
+->RX(s all):[00000A668AA8TQFFFF9A4500000000A1]->RX(s one):00000A668AA8TQFFFF9A4500000000
+package 445712171 :[00000A668AA8TQFFFF9A4500000000A1]
+Informing -0,077614181976 445712171
+tq:-0,08 445712171 span:445712171
+<-TX: 445712843 :[00000A668AA8LS1F]
+- ] found -
+->RX(s all):[00000A668AA8LS0000FFFF0000000000000000000000000000000000009E]->RX(s one):00000A668AA8LS0000FFFF000000000000000000000000000000000000
+package 445712875 :[00000A668AA8LS0000FFFF0000000000000000000000000000000000009E]
+<-TX: 445712968 :[00000A668AA8TQB4]
+- ] found -
+->RX(s all):[00000A668AA8TQ0000018100000000C8]->RX(s one):00000A668AA8TQ0000018100000000
+package 445712984 :[00000A668AA8TQ0000018100000000C8]
+Informing 0,00114738932 445713000
+tq:0,00 445713000 span:813
+<-TX: 445713312 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102803E80003000001A8000087BFDC]->RX(s one):00000A668AA8DSB80076110000010101102803E80003000001A8000087BF
+package 445713375 :[00000A668AA8DSB80076110000010101102803E80003000001A8000087BFDC]
+<-TX: 445713421 :[00000A668AA8TQB4]
+- ] found -
+->RX(s all):[00000A668AA8TQ000001BF00000000E7]->RX(s one):00000A668AA8TQ000001BF00000000
+package 445713453 :[00000A668AA8TQ000001BF00000000E7]
+Informing 0,001332163704 445713453
+tq:0,00 445713468 span:468
+<-TX: 445714125 :[00000A668AA8LS1F]
+- ] found -
+->RX(s all):[00000A668AA8LS0000FFFF0000000000000000000000000000000000009E]->RX(s one):00000A668AA8LS0000FFFF000000000000000000000000000000000000
+package 445714171 :[00000A668AA8LS0000FFFF0000000000000000000000000000000000009E]
+<-TX: 445714250 :[00000A668AA8TQB4]
+- ] found -
+->RX(s all):[00000A668AA8TQFFFFB77800000000CE]->RX(s one):00000A668AA8TQFFFFB77800000000
+package 445714281 :[00000A668AA8TQFFFFB77800000000CE]
+Informing -0,055336947776 445714281
+tq:-0,06 445714281 span:813
+<-TX: 445714625 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102803E80003000001AA000087BF4E]->RX(s one):00000A668AA8DSB80076110000010101102803E80003000001AA000087BF
+package 445714671 :[00000A668AA8DSB80076110000010101102803E80003000001AA000087BF4E]
+<-TX: 445714750 :[00000A668AA8TQB4]
+incomplete. wait. bytes:5 as:0 mes:
+incomplete. wait. bytes:5 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8TQ000657130000000071]->RX(s one):00000A668AA8TQ0006571300000000
+package 445714796 :[00000A668AA8TQ000657130000000071]
+Informing 1,238307257624 445714796
+tq:1,24 445714796 span:515
+<-TX: 445715453 :[00000A668AA8LS1F]
+- ] found -
+->RX(s all):[00000A668AA8LS030001F301F400FF0065000B6E3100000000000000006C]->RX(s one):00000A668AA8LS030001F301F400FF0065000B6E310000000000000000
+package 445715484 :[00000A668AA8LS030001F301F400FF0065000B6E3100000000000000006C]
+maxsamples (to ask):2000
+peakindex: 255
+size: 500 => 0 to 499
+step: 1
+samples to ask: 500
+firstsample: 0
+<-TX: 445715562 :[00000A668AA8GD000064016C]
+- ] found -
+->RX(s all):[00000A668AA8GDR�->RX(s one):00000A668AA8GDR�package 445715687 :[00000A668AA8GDR�******** NEW PACKET 445715703
+meas.	iniproc-RX:	78
+<-TX: 445715718 :[00000A668AA8GD00646401BC]
+incomplete. wait. bytes:243 as:518 mes:
+incomplete. wait. bytes:253 as:518 mes:
+- ] found -
+->RX(s all):[00000A668AA8GD	$->RX(s one):00000A668AA8GD	$package 445715796 :[00000A668AA8GD	$******** NEW PACKET 445715796
+meas.	iniproc-RX:	46
+<-TX: 445715812 :[00000A668AA8GD00C864017E]
+incomplete. wait. bytes:32 as:518 mes:
+incomplete. wait. bytes:32 as:518 mes:
+incomplete. wait. bytes:32 as:518 mes:
+incomplete. wait. bytes:32 as:518 mes:
+incomplete. wait. bytes:32 as:518 mes:
+- ] found -
+->RX(s all):[00000A668AA8GD
+�f->RX(s one):00000A668AA8GD
+�fpackage 445715906 :[00000A668AA8GD
+�f<-TX: 445716375 :[00000A668AA8GD00C864017E]
+- ] found -
+->RX(s all):[00000A668AA8GD
+�f->RX(s one):00000A668AA8GD
+�fpackage 445716515 :[00000A668AA8GD
+�f******** NEW PACKET 445716515
+meas.	iniproc-RX:	78
+<-TX: 445716546 :[00000A668AA8GD012C640179]
+- ] found -
+->RX(s all):[00000A668AA8GDc�->RX(s one):00000A668AA8GDc�package 445716656 :[00000A668AA8GDc�******** NEW PACKET 445716656
+meas.	iniproc-RX:	46
+<-TX: 445716687 :[00000A668AA8GD0190640129]
+incomplete. wait. bytes:338 as:518 mes:
+- ] found -
+->RX(s all):[00000A668AA8GD
+?�->RX(s one):00000A668AA8GD
+?�package 445716781 :[00000A668AA8GD
+?�******** NEW PACKET 445716781
+meas.	iniproc-RX:	47
+SHOW AT SCREEN 445716796
+SHOW AT SCREEN END445716796
+---------- InitRead
+AFTER RECONFIG 445716937
+<-TX: 445716968 :[00000A668AA8ZO1009]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000085F000000000B]->RX(s one):00000A668AA8ZO0000085F00000000
+package 445717031 :[00000A668AA8ZO0000085F000000000B]
+<-TX: 445717109 :[00000A668AA8ZO01A9]
+- ] found -
+->RX(s all):[00000A668AA8ZO0000085F000000000B]->RX(s one):00000A668AA8ZO0000085F00000000
+package 445717125 :[00000A668AA8ZO0000085F000000000B]
+<-TX: 445717250 :[00000A668AA8SA00051EB8001999990190000101F40001F3]
+- ] found -
+->RX(s all):[00000A668AA8SA0056]->RX(s one):00000A668AA8SA00
+package 445717281 :[00000A668AA8SA0056]
+<-TX: 445717390 :[00000A668AA8CS1E1E1489]
+- ] found -
+->RX(s all):[00000A668AA8CS0031]->RX(s one):00000A668AA8CS00
+package 445717437 :[00000A668AA8CS0031]
+<-TX: 445717671 :[00000A668AA8SC003200320000000000000000000000000000000000000000000000003D]
+- ] found -
+->RX(s all):[00000A668AA8SC0094]->RX(s one):00000A668AA8SC00
+package 445717703 :[00000A668AA8SC0094]
+<-TX: 445717828 :[00000A668AA8RC95]
+- ] found -
+->RX(s all):[00000A668AA8RC0000035E00000000000000000000000000000000CD]->RX(s one):00000A668AA8RC0000035E00000000000000000000000000000000
+package 445717843 :[00000A668AA8RC0000035E00000000000000000000000000000000CD]
+<-TX: 445717968 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102803E80003000001AD0000085F46]->RX(s one):00000A668AA8DSB80076110000010101102803E80003000001AD0000085F
+package 445718000 :[00000A668AA8DSB80076110000010101102803E80003000001AD0000085F46]
+<-TX: 445718109 :[00000A668AA8TQB4]
+- ] found -
+->RX(s all):[00000A668AA8TQ00003CC30000000024]->RX(s one):00000A668AA8TQ00003CC300000000
+package 445718125 :[00000A668AA8TQ00003CC30000000024]
+Informing 0,04635750876 445718140
+tq:0,05 445718140 span:3344
+<-TX: 445718812 :[00000A668AA8LS1F]
+- ] found -
+->RX(s all):[00000A668AA8LS0000FFFF0000000000000000000000000000000000009E]->RX(s one):00000A668AA8LS0000FFFF000000000000000000000000000000000000
+package 445718843 :[00000A668AA8LS0000FFFF0000000000000000000000000000000000009E]
+<-TX: 445718953 :[00000A668AA8TQB4]
+- ] found -
+->RX(s all):[00000A668AA8TQ00007EB9000000002B]->RX(s one):00000A668AA8TQ00007EB900000000
+package 445718968 :[00000A668AA8TQ00007EB9000000002B]
+Informing 0,096681706312 445718984
+tq:0,10 445718984 span:844
+<-TX: 445719312 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102803E80003000001AE0000085F8D]->RX(s one):00000A668AA8DSB80076110000010101102803E80003000001AE0000085F
+package 445719343 :[00000A668AA8DSB80076110000010101102803E80003000001AE0000085F8D]
+<-TX: 445719453 :[00000A668AA8TQB4]
+- ] found -
+->RX(s all):[00000A668AA8TQ00007D5F00000000B4]->RX(s one):00000A668AA8TQ00007D5F00000000
+package 445719468 :[00000A668AA8TQ00007D5F00000000B4]
+Informing 0,09565054604 445719484
+tq:0,10 445719484 span:500
+<-TX: 445720171 :[00000A668AA8LS1F]
+- ] found -
+->RX(s all):[00000A668AA8LS0000FFFF0000000000000000000000000000000000009E]->RX(s one):00000A668AA8LS0000FFFF000000000000000000000000000000000000
+package 445720203 :[00000A668AA8LS0000FFFF0000000000000000000000000000000000009E]
+<-TX: 445720312 :[00000A668AA8TQB4]
+- ] found -
+->RX(s all):[00000A668AA8TQ0000821D000000008C]->RX(s one):00000A668AA8TQ0000821D00000000
+package 445720343 :[00000A668AA8TQ0000821D000000008C]
+Informing 0,099268547688 445720343
+tq:0,10 445720359 span:875
+<-TX: 445720687 :[00000A668AA8DSA3]
+incomplete. wait. bytes:55 as:0 mes:
+incomplete. wait. bytes:55 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102803E80003000001B00000085F91]->RX(s one):00000A668AA8DSB80076110000010101102803E80003000001B00000085F
+package 445720734 :[00000A668AA8DSB80076110000010101102803E80003000001B00000085F91]
+<-TX: 445720828 :[00000A668AA8TQB4]
+- ] found -
+->RX(s all):[00000A668AA8TQ000081EE000000001E]->RX(s one):00000A668AA8TQ000081EE00000000
+package 445720843 :[00000A668AA8TQ000081EE000000001E]
+Informing 0,099128476784 445720859
+tq:0,10 445720859 span:500
+<-TX: 445721531 :[00000A668AA8LS1F]
+- ] found -
+->RX(s all):[00000A668AA8LS0000FFFF0000000000000000000000000000000000009E]->RX(s one):00000A668AA8LS0000FFFF000000000000000000000000000000000000
+package 445721562 :[00000A668AA8LS0000FFFF0000000000000000000000000000000000009E]
+<-TX: 445721656 :[00000A668AA8TQB4]
+- ] found -
+->RX(s all):[00000A668AA8TQ00003B940000000031]->RX(s one):00000A668AA8TQ00003B9400000000
+package 445721687 :[00000A668AA8TQ00003B940000000031]
+Informing 0,045454498464 445721687
+tq:0,05 445721687 span:828
+<-TX: 445722000 :[00000A668AA8DSA3]
+incomplete. wait. bytes:51 as:0 mes:
+incomplete. wait. bytes:51 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102803E80003000001B10000085F5A]->RX(s one):00000A668AA8DSB80076110000010101102803E80003000001B10000085F
+package 445722046 :[00000A668AA8DSB80076110000010101102803E80003000001B10000085F5A]
+<-TX: 445722125 :[00000A668AA8TQB4]
+- ] found -
+->RX(s all):[00000A668AA8TQ00003C7A000000001B]->RX(s one):00000A668AA8TQ00003C7A00000000
+package 445722156 :[00000A668AA8TQ00003C7A000000001B]
+Informing 0,046139951824 445722171
+tq:0,05 445722171 span:484
+<-TX: 445722828 :[00000A668AA8LS1F]
+- ] found -
+->RX(s all):[00000A668AA8LS0000FFFF0000000000000000000000000000000000009E]->RX(s one):00000A668AA8LS0000FFFF000000000000000000000000000000000000
+package 445722875 :[00000A668AA8LS0000FFFF0000000000000000000000000000000000009E]
+<-TX: 445722968 :[00000A668AA8TQB4]
+incomplete. wait. bytes:24 as:0 mes:
+incomplete. wait. bytes:24 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8TQ000080D500000000FE]->RX(s one):00000A668AA8TQ000080D500000000
+package 445723015 :[00000A668AA8TQ000080D500000000FE]
+Informing 0,098291031592 445723015
+tq:0,10 445723015 span:844
+<-TX: 445723343 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076430000010101102803E80003000001B20000085FCB]->RX(s one):00000A668AA8DSB80076430000010101102803E80003000001B20000085F
+package 445723421 :[00000A668AA8DSB80076430000010101102803E80003000001B20000085FCB]
+<-TX: 445723500 :[00000A668AA8TQB4]
+incomplete. wait. bytes:13 as:0 mes:
+incomplete. wait. bytes:13 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8TQ000082320000000032]->RX(s one):00000A668AA8TQ0000823200000000
+package 445723531 :[00000A668AA8TQ000082320000000032]
+Informing 0,09933113256 445723531
+tq:0,10 445723546 span:531
+<-TX: 445724156 :[00000A668AA8LS1F]
+- ] found -
+->RX(s all):[00000A668AA8LS0000FFFF0000000000000000000000000000000000009E]->RX(s one):00000A668AA8LS0000FFFF000000000000000000000000000000000000
+package 445724187 :[00000A668AA8LS0000FFFF0000000000000000000000000000000000009E]
+<-TX: 445724296 :[00000A668AA8TQB4]
+incomplete. wait. bytes:27 as:0 mes:
+incomplete. wait. bytes:27 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8TQ000008CD00000000B8]->RX(s one):00000A668AA8TQ000008CD00000000
+package 445724328 :[00000A668AA8TQ000008CD00000000B8]
+Informing 0,006714462696 445724343
+tq:0,01 445724343 span:797
+<-TX: 445724640 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076430000010101102803E80003000001B40000085F3B]->RX(s one):00000A668AA8DSB80076430000010101102803E80003000001B40000085F
+package 445724687 :[00000A668AA8DSB80076430000010101102803E80003000001B40000085F3B]
+<-TX: 445724765 :[00000A668AA8TQB4]
+incomplete. wait. bytes:10 as:0 mes:
+incomplete. wait. bytes:10 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8TQ000082820000000077]->RX(s one):00000A668AA8TQ0000828200000000
+package 445724796 :[00000A668AA8TQ000082820000000077]
+Informing 0,09956955112 445724812
+tq:0,10 445724812 span:469
+<-TX: 445725453 :[00000A668AA8LS1F]
+- ] found -
+->RX(s all):[00000A668AA8LS0000FFFF0000000000000000000000000000000000009E]->RX(s one):00000A668AA8LS0000FFFF000000000000000000000000000000000000
+package 445725500 :[00000A668AA8LS0000FFFF0000000000000000000000000000000000009E]
+<-TX: 445725609 :[00000A668AA8TQB4]
+- ] found -
+->RX(s all):[00000A668AA8TQ000082D300000000E1]->RX(s one):00000A668AA8TQ000082D300000000
+package 445725625 :[00000A668AA8TQ000082D300000000E1]
+Informing 0,099810949912 445725625
+tq:0,10 445725640 span:828
+<-TX: 445725953 :[00000A668AA8DSA3]
+incomplete. wait. bytes:60 as:0 mes:
+incomplete. wait. bytes:60 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DSB80076430000030101102803E80003000001B50000085FE3]->RX(s one):00000A668AA8DSB80076430000030101102803E80003000001B50000085F
+package 445726000 :[00000A668AA8DSB80076430000030101102803E80003000001B50000085FE3]
+<-TX: 445726109 :[00000A668AA8TQB4]
+- ] found -
+->RX(s all):[00000A668AA8TQ00007F6800000000B9]->RX(s one):00000A668AA8TQ00007F6800000000
+package 445726140 :[00000A668AA8TQ00007F6800000000B9]
+Informing 0,097203246912 445726140
+tq:0,10 445726140 span:500
+<-TX: 445726796 :[00000A668AA8LS1F]
+- ] found -
+->RX(s all):[00000A668AA8LS0000FFFF0000000000000000000000000000000000009E]->RX(s one):00000A668AA8LS0000FFFF000000000000000000000000000000000000
+package 445726828 :[00000A668AA8LS0000FFFF0000000000000000000000000000000000009E]
+<-TX: 445726921 :[00000A668AA8TQB4]
+- ] found -
+->RX(s all):[00000A668AA8TQ00007EDB000000009C]->RX(s one):00000A668AA8TQ00007EDB00000000
+package 445726937 :[00000A668AA8TQ00007EDB000000009C]
+Informing 0,0967830342 445726953
+tq:0,10 445726953 span:813
+<-TX: 445727265 :[00000A668AA8DSA3]
+incomplete. wait. bytes:48 as:0 mes:
+incomplete. wait. bytes:48 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DSB80076430000010101102803E80003000001B60000085F88]->RX(s one):00000A668AA8DSB80076430000010101102803E80003000001B60000085F
+package 445727312 :[00000A668AA8DSB80076430000010101102803E80003000001B60000085F88]
+<-TX: 445727390 :[00000A668AA8TQB4]
+- ] found -
+->RX(s all):[00000A668AA8TQ00007EE0000000002A]->RX(s one):00000A668AA8TQ00007EE000000000
+package 445727406 :[00000A668AA8TQ00007EE0000000002A]
+Informing 0,09679793536 445727421
+tq:0,10 445727421 span:468
+<-TX: 445728046 :[00000A668AA8LS1F]
+incomplete. wait. bytes:9 as:0 mes:
+incomplete. wait. bytes:9 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8LS0000FFFF0000000000000000000000000000000000009E]->RX(s one):00000A668AA8LS0000FFFF000000000000000000000000000000000000
+package 445728093 :[00000A668AA8LS0000FFFF0000000000000000000000000000000000009E]
+<-TX: 445728187 :[00000A668AA8TQB4]
+- ] found -
+->RX(s all):[00000A668AA8TQ000081B7000000003E]->RX(s one):00000A668AA8TQ000081B700000000
+package 445728203 :[00000A668AA8TQ000081B7000000003E]
+Informing 0,098964564024 445728218
+tq:0,10 445728218 span:797
+<-TX: 445728531 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076430000010101102803E80003000001B80000085FFE]->RX(s one):00000A668AA8DSB80076430000010101102803E80003000001B80000085F
+package 445728578 :[00000A668AA8DSB80076430000010101102803E80003000001B80000085FFE]
+<-TX: 445729906 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076430000010101102803E80003000001B90000085F35]->RX(s one):00000A668AA8DSB80076430000010101102803E80003000001B90000085F
+package 445729953 :[00000A668AA8DSB80076430000010101102803E80003000001B90000085F35]
+<-TX: 445731250 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076430000010101102803E80003000001BA0000085F6C]->RX(s one):00000A668AA8DSB80076430000010101102803E80003000001BA0000085F
+package 445731296 :[00000A668AA8DSB80076430000010101102803E80003000001BA0000085F6C]
+<-TX: 445732578 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000030101102803E80003000001BC0000085F25]->RX(s one):00000A668AA8DSB80076110000030101102803E80003000001BC0000085F
+package 445732625 :[00000A668AA8DSB80076110000030101102803E80003000001BC0000085F25]
+<-TX: 445733921 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102803E80003000001BD0000085F0D]->RX(s one):00000A668AA8DSB80076110000010101102803E80003000001BD0000085F
+package 445733984 :[00000A668AA8DSB80076110000010101102803E80003000001BD0000085F0D]
+<-TX: 445735234 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102803E80003000001BE0000085FC6]->RX(s one):00000A668AA8DSB80076110000010101102803E80003000001BE0000085F
+package 445735281 :[00000A668AA8DSB80076110000010101102803E80003000001BE0000085FC6]
+<-TX: 445736546 :[00000A668AA8DSA3]
+incomplete. wait. bytes:35 as:0 mes:
+incomplete. wait. bytes:35 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102803E80003000001C00000085F4B]->RX(s one):00000A668AA8DSB80076110000010101102803E80003000001C00000085F
+package 445736593 :[00000A668AA8DSB80076110000010101102803E80003000001C00000085F4B]
+<-TX: 445737875 :[00000A668AA8DSA3]
+incomplete. wait. bytes:36 as:0 mes:
+incomplete. wait. bytes:36 as:0 mes:
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102803E80003000001C10000085F80]->RX(s one):00000A668AA8DSB80076110000010101102803E80003000001C10000085F
+package 445737921 :[00000A668AA8DSB80076110000010101102803E80003000001C10000085F80]
+<-TX: 445739187 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102803E80003000001C20000085FF8]->RX(s one):00000A668AA8DSB80076110000010101102803E80003000001C20000085F
+package 445739250 :[00000A668AA8DSB80076110000010101102803E80003000001C20000085FF8]
+<-TX: 445740515 :[00000A668AA8DSA3]
+- ] found -
+->RX(s all):[00000A668AA8DSB80076110000010101102803E80003000001C40000085F08]->RX(s one):00000A668AA8DSB80076110000010101102803E80003000001C40000085F
+package 445740546 :[00000A668AA8DSB80076110000010101102803E80003000001C40000085F08]
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+<-TX: 445741437 :[00000A668AA8DSA3]
+The thread 0x3778 has exited with code 259 (0x103).
+The thread 0x14c8 has exited with code 259 (0x103).
+%%%%%%%%%%%%% StopService %%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%% CLOSE PORT %%%%%%%%%%%%%%%%%%
+The thread 0x1da0 has exited with code 259 (0x103).

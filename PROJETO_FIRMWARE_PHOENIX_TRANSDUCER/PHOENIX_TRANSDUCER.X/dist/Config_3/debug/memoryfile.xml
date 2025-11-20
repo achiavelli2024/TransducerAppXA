@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+  <executable name="dist/Config_3/debug/PHOENIX_TRANSDUCER.X.debug.elf">
+    <memory name="data">
+      <units>bytes</units>
+      <length>53248</length>
+      <used>43210</used>
+      <free>10038</free>
+    </memory>
+    <memory name="program">
+      <units>bytes</units>
+      <length>524544</length>
+      <used>50967</used>
+      <free>473577</free>
+    </memory>
+  </executable>
+</project>

@@ -1,0 +1,1 @@
+ -c -mcpu=$(MP_PROCESSOR_OPTION)      -mno-eds-warn  -g -omf=elf -DXPRJ_defaultActiveCA=$(CND_CONF)    $(COMPARISON_BUILD)  -mlarge-code -mlarge-data -mlarge-scalar -mconst-in-code -menable-large-arrays -O0 -msmart-io=1 -Wall -msfr-warn=off    -mdfp="${DFP_DIR}/xc16"D:\Documentos\M.SHIMIZU\PROJETOS\Hardware\Transdutor\Firmware\PHOENIX_TRANSDUCER\PHOENIX_TRANSDUCER.X\power.c

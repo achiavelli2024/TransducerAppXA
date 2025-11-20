@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"hardware.h": "c",
+			"xc.h": "c",
+			"stdio.h": "c"
+		}
+	}
+}
