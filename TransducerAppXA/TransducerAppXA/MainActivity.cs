@@ -9,7 +9,6 @@ using Android.Content;
 using Android.OS;
 using Android.Widget;
 using Transducers; // PhoenixTransducer and related types
-using Android.Text; // ClipboardManager
 
 namespace TransducerAppXA
 {
@@ -18,7 +17,7 @@ namespace TransducerAppXA
     {
         PhoenixTransducer Trans;
 
-        // UI elements (as before)
+        // UI elements
         EditText txtIP;
         Button btnConnectIP;
         Button btnDisconnect;
@@ -47,7 +46,7 @@ namespace TransducerAppXA
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.activity_main);
 
-            // Bind UI (same IDs as you have)
+            // Bind UI (same IDs as you have in layout)
             txtIP = FindViewById<EditText>(Resource.Id.txtIP);
             btnConnectIP = FindViewById<Button>(Resource.Id.btnConnectIP);
             btnDisconnect = FindViewById<Button>(Resource.Id.btnDisconnect);
@@ -121,11 +120,28 @@ namespace TransducerAppXA
             StartLogTailer();
         }
 
-        // ProtocolFileLogger handler
+        // ---------- ProtocolFileLogger handler (consistent name) ----------
         private void ProtocolFileLogger_OnLogWritten(string direction, string text, byte[] raw)
         {
             try
             {
+                // Build formatted "raw" text similar to file so UI matches file content
+                var sb = new StringBuilder();
+                sb.AppendFormat("{0:yyyy-MM-dd HH:mm:ss.fff} [{1}] {2}", DateTime.Now, direction ?? "LOG", text ?? "");
+                sb.AppendLine();
+                if (raw != null && raw.Length > 0)
+                {
+                    sb.Append("HEX: ");
+                    sb.Append(ProtocolFileLogger.ByteArrayToHexString(raw, " "));
+                    sb.AppendLine();
+                }
+                sb.AppendLine(new string('-', 50));
+                string formatted = sb.ToString();
+
+                // Always show formatted raw line first (so UI contains exactly what was written)
+                AddLogRawToUI(formatted);
+
+                // Try to extract telegram in brackets and show highlighted
                 if (!string.IsNullOrEmpty(text))
                 {
                     int a = text.IndexOf('[');
@@ -142,7 +158,6 @@ namespace TransducerAppXA
                 {
                     string decoded = null;
                     try { decoded = Encoding.UTF8.GetString(raw); } catch { try { decoded = Encoding.ASCII.GetString(raw); } catch { decoded = null; } }
-
                     if (!string.IsNullOrEmpty(decoded))
                     {
                         int a = decoded.IndexOf('[');
@@ -154,18 +169,30 @@ namespace TransducerAppXA
                             return;
                         }
                     }
-
-                    string hex = ProtocolFileLogger.ByteArrayToHexString(raw, " ");
-                    AddLog($"{direction ?? "RAW"} (hex): {hex}");
-                    return;
                 }
-
-                AddLog($"{direction ?? "LOG"}: {text}");
             }
             catch (Exception ex)
             {
                 AddLog("ProtocolFileLogger_OnLogWritten error: " + ex.Message);
             }
+        }
+
+        // Insert the formatted/raw line into the ListView adapter (UI)
+        void AddLogRawToUI(string formattedLine)
+        {
+            RunOnUiThread(() =>
+            {
+                // Split into lines and insert at top preserving order
+                var lines = formattedLine.Split(new[] { System.Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
+                for (int i = lines.Length - 1; i >= 0; i--)
+                    logItems.Insert(0, lines[i]);
+
+                // Trim
+                while (logItems.Count > 5000) logItems.RemoveAt(logItems.Count - 1);
+
+                logAdapter.NotifyDataSetChanged();
+                try { lvLog.InvalidateViews(); lvLog.SetSelection(0); } catch { }
+            });
         }
 
         void AddLogTelegram(string direction, string telegram, string contextText = null)
@@ -176,8 +203,9 @@ namespace TransducerAppXA
                 logItems.Insert(0, header);
                 if (!string.IsNullOrEmpty(contextText))
                     logItems.Insert(0, $"    context: {contextText}");
-                if (logItems.Count > 2000) logItems.RemoveAt(logItems.Count - 1);
+                if (logItems.Count > 5000) logItems.RemoveAt(logItems.Count - 1);
                 logAdapter.NotifyDataSetChanged();
+                try { lvLog.InvalidateViews(); lvLog.SetSelection(0); } catch { }
             });
         }
 
@@ -187,8 +215,9 @@ namespace TransducerAppXA
             {
                 string line = $"{DateTime.Now:HH:mm:ss.fff} - {s}";
                 logItems.Insert(0, line);
-                if (logItems.Count > 2000) logItems.RemoveAt(logItems.Count - 1);
+                if (logItems.Count > 5000) logItems.RemoveAt(logItems.Count - 1);
                 logAdapter.NotifyDataSetChanged();
+                try { lvLog.InvalidateViews(); lvLog.SetSelection(0); } catch { }
             });
         }
 
@@ -196,6 +225,7 @@ namespace TransducerAppXA
         {
             try
             {
+                // best-effort reflection hook if TransducerLogger exposes a static event OnLogWritten(Action<string>)
                 var type = Type.GetType("Transducer_Estudo.TransducerLogger, Transducer_Estudo") ?? Type.GetType("TransducerLogger");
                 if (type != null)
                 {
@@ -208,7 +238,7 @@ namespace TransducerAppXA
                     }
                 }
             }
-            catch { }
+            catch { /* best-effort */ }
         }
 
         void BtnCopyLog_Click(object sender, EventArgs e)
@@ -217,8 +247,11 @@ namespace TransducerAppXA
             {
                 var sb = new StringBuilder();
                 for (int i = logItems.Count - 1; i >= 0; i--) sb.AppendLine(logItems[i]);
-                var clipboard = (Android.Text.ClipboardManager)GetSystemService(ClipboardService);
-                clipboard.Text = sb.ToString();
+
+                var clipboard = (ClipboardManager)GetSystemService(ClipboardService) as ClipboardManager;
+                ClipData clip = ClipData.NewPlainText("TransducerLog", sb.ToString());
+                clipboard.PrimaryClip = clip;
+
                 Toast.MakeText(this, "Log copied to clipboard", ToastLength.Short).Show();
                 ProtocolFileLogger.WriteProtocol("SYS", "UI BUTTON: COPY LOG clicked", null);
             }
@@ -232,7 +265,7 @@ namespace TransducerAppXA
             AddLog("Log cleared (UI)");
         }
 
-        // Tailer: (unchanged from previous version)
+        // Tailer: reads files from Logs/ and pushes lines into UI (keeps behaviour)
         void StartLogTailer()
         {
             StopLogTailer();
@@ -327,6 +360,9 @@ namespace TransducerAppXA
                                 string dir = "FILE";
                                 if (line.IndexOf("TX", StringComparison.OrdinalIgnoreCase) >= 0) dir = "TX";
                                 else if (line.IndexOf("RX", StringComparison.OrdinalIgnoreCase) >= 0) dir = "RX";
+
+                                // Insert raw file line and highlighted telegram
+                                AddLogRawToUI(line);
                                 AddLogTelegram(dir, telegram, line);
                             }
                             else
