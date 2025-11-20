@@ -203,7 +203,6 @@ C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\android\src\a
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\android\src\androidx\transition\R.java
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\android\src\com\google\android\material\R.java
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\android\src\com\google\android\material\snackbar\Snackbar_SnackbarActionClickImplementor.java
-C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\android\src\crc64121218c0d4a5a9ae\MainActivity.java
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\android\src\crc64396a3fe5f8138e3f\CustomTabsServiceConnectionImpl.java
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\android\src\crc64396a3fe5f8138e3f\KeepAliveService.java
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\AccelerometerListener.java
@@ -223,6 +222,7 @@ C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\android\src\c
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\TextToSpeechImplementation.java
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorCallbackActivity.java
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\android\src\crc64a0e0a82d0db9a07d\WebAuthenticatorIntermediateActivity.java
+C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\android\src\crc64d4bf71c1e765891b\MainActivity.java
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\android\src\mono\androidx\appcompat\app\ActionBar_OnMenuVisibilityListenerImplementor.java
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\android\src\mono\androidx\appcompat\app\ActionBar_OnNavigationListenerImplementor.java
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\android\src\mono\androidx\appcompat\app\ActionBar_TabListenerImplementor.java

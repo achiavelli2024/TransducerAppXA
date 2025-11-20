@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\M\\TransducerAppXA\\TransducerAppXA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED167488-E973-4E46-9ACF-0A4F946C3563}|TransducerAppXA\\TransducerAppXA.csproj|C:\\M\\TransducerAppXA\\TransducerAppXA\\transducerappxa\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED167488-E973-4E46-9ACF-0A4F946C3563}|TransducerAppXA\\TransducerAppXA.csproj|c:\\m\\transducerappxa\\transducerappxa\\transducerappxa\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED167488-E973-4E46-9ACF-0A4F946C3563}|TransducerAppXA\\TransducerAppXA.csproj|solutionrelative:transducerappxa\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED167488-E973-4E46-9ACF-0A4F946C3563}|TransducerAppXA\\TransducerAppXA.csproj|c:\\m\\transducerappxa\\transducerappxa\\transducerappxa\\phoenixtransducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED167488-E973-4E46-9ACF-0A4F946C3563}|TransducerAppXA\\TransducerAppXA.csproj|solutionrelative:transducerappxa\\phoenixtransducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED167488-E973-4E46-9ACF-0A4F946C3563}|TransducerAppXA\\TransducerAppXA.csproj|c:\\m\\transducerappxa\\transducerappxa\\transducerappxa\\resources\\layout\\activity_main.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{ED167488-E973-4E46-9ACF-0A4F946C3563}|TransducerAppXA\\TransducerAppXA.csproj|solutionrelative:transducerappxa\\resources\\layout\\activity_main.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +31,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PhoenixTransducer.cs",
-              "DocumentMoniker": "C:\\M\\TransducerAppXA\\TransducerAppXA\\TransducerAppXA\\PhoenixTransducer.cs",
-              "RelativeDocumentMoniker": "TransducerAppXA\\PhoenixTransducer.cs",
-              "ToolTip": "C:\\M\\TransducerAppXA\\TransducerAppXA\\TransducerAppXA\\PhoenixTransducer.cs",
-              "RelativeToolTip": "TransducerAppXA\\PhoenixTransducer.cs",
-              "ViewState": "AgIAADcBAAAAAAAAAAAAwDkBAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T17:12:18.353Z",
+              "Title": "activity_main.xml",
+              "DocumentMoniker": "C:\\M\\TransducerAppXA\\TransducerAppXA\\TransducerAppXA\\Resources\\layout\\activity_main.xml",
+              "RelativeDocumentMoniker": "TransducerAppXA\\Resources\\layout\\activity_main.xml",
+              "ToolTip": "C:\\M\\TransducerAppXA\\TransducerAppXA\\TransducerAppXA\\Resources\\layout\\activity_main.xml",
+              "RelativeToolTip": "TransducerAppXA\\Resources\\layout\\activity_main.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-11-20T20:25:35.101Z",
               "EditorCaption": ""
             },
             {
@@ -49,9 +48,9 @@
               "RelativeDocumentMoniker": "TransducerAppXA\\MainActivity.cs",
               "ToolTip": "C:\\M\\TransducerAppXA\\TransducerAppXA\\TransducerAppXA\\MainActivity.cs",
               "RelativeToolTip": "TransducerAppXA\\MainActivity.cs",
-              "ViewState": "AgIAAJYAAAAAAAAAAAAcwA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKYBAAAAAAAAAAAcwLoBAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T00:05:55.611Z",
+              "WhenOpened": "2025-11-20T19:58:20.178Z",
               "EditorCaption": ""
             }
           ]

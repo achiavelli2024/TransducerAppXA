@@ -11,7 +11,7 @@
   <uses-permission android:name="android.permission.INTERNAL_SYSTEM_WINDOW" />
   <uses-permission android:name="android.permission.INTERNET" />
   <application android:name="android.app.Application" android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:extractNativeLibs="true" android:icon="@mipmap/ic_launcher" android:label="@string/app_name" android:supportsRtl="true" android:theme="@style/AppTheme">
-    <activity android:name="crc64121218c0d4a5a9ae.MainActivity" android:exported="true" android:label="TransducerAppXA">
+    <activity android:name="crc64d4bf71c1e765891b.MainActivity" android:exported="true" android:label="TransducerAppXA">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
