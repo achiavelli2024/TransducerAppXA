@@ -1,0 +1,36 @@
+C:\Users\viper\Desktop\INST\DADOS\Transducers\ITransducers\bin\Release\ITransducers.dll
+C:\Users\viper\Desktop\INST\DADOS\Transducers\ITransducers\bin\Release\ITransducers.pdb
+C:\Users\viper\Desktop\INST\DADOS\Transducers\ITransducers\obj\Release\ITransducers.dll
+C:\Users\viper\Desktop\INST\DADOS\Transducers\ITransducers\obj\Release\ITransducers.pdb
+D:\Projetos\MShimizu\MShFramework\Transducers\ITransducers\bin\Release\ITransducers.dll
+D:\Projetos\MShimizu\MShFramework\Transducers\ITransducers\bin\Release\ITransducers.pdb
+D:\Projetos\MShimizu\MShFramework\Transducers\ITransducers\obj\Release\ITransducers.dll
+D:\Projetos\MShimizu\MShFramework\Transducers\ITransducers\obj\Release\ITransducers.pdb
+D:\Projetos\MShimizu\MShFramework\Transducers\ITransducers\obj\Release\ITransducers.csprojResolveAssemblyReference.cache
+D:\__C#\LIB\Transducer\SW\Transducers\ITransducers\bin\Release\ITransducers.dll
+D:\__C#\LIB\Transducer\SW\Transducers\ITransducers\bin\Release\ITransducers.pdb
+D:\__C#\LIB\Transducer\SW\Transducers\ITransducers\obj\Release\ITransducers.dll
+D:\__C#\LIB\Transducer\SW\Transducers\ITransducers\obj\Release\ITransducers.pdb
+D:\__C#\LIB\Transducer\SW\Transducers\ITransducers\obj\Release\ITransducers.csprojResolveAssemblyReference.cache
+D:\M\PROJ\Transducers\Transducers\ITransducers\bin\Release\ITransducers.dll
+D:\M\PROJ\Transducers\Transducers\ITransducers\bin\Release\ITransducers.pdb
+D:\M\PROJ\Transducers\Transducers\ITransducers\obj\Release\ITransducers.csprojResolveAssemblyReference.cache
+D:\M\PROJ\Transducers\Transducers\ITransducers\obj\Release\ITransducers.dll
+D:\M\PROJ\Transducers\Transducers\ITransducers\obj\Release\ITransducers.pdb
+C:\M\PROJ\Transducers\Transducers\ITransducers\bin\Release\ITransducers.dll
+C:\M\PROJ\Transducers\Transducers\ITransducers\bin\Release\ITransducers.pdb
+C:\M\PROJ\Transducers\Transducers\ITransducers\obj\Release\ITransducers.dll
+C:\M\PROJ\Transducers\Transducers\ITransducers\obj\Release\ITransducers.pdb
+C:\M\PROJ\Transducers\Transducers\ITransducers\obj\Release\ITransducers.csprojAssemblyReference.cache
+C:\M\PROJ\Transducers\Transducers\ITransducers\obj\Release\ITransducers.csproj.CoreCompileInputs.cache
+C:\PROJETOS\Transducers - 20220729_2\Transducers - 20220729\Transducers\Transducers\ITransducers\bin\Release\ITransducers.dll
+C:\PROJETOS\Transducers - 20220729_2\Transducers - 20220729\Transducers\Transducers\ITransducers\bin\Release\ITransducers.pdb
+C:\PROJETOS\Transducers - 20220729_2\Transducers - 20220729\Transducers\Transducers\ITransducers\obj\Release\ITransducers.csprojResolveAssemblyReference.cache
+C:\PROJETOS\Transducers - 20220729_2\Transducers - 20220729\Transducers\Transducers\ITransducers\obj\Release\ITransducers.dll
+C:\PROJETOS\Transducers - 20220729_2\Transducers - 20220729\Transducers\Transducers\ITransducers\obj\Release\ITransducers.pdb
+C:\M\PROJ\Transducers - Coletor\Transducers - 20220729\Transducers\Transducers\ITransducers\bin\Release\ITransducers.dll
+C:\M\PROJ\Transducers - Coletor\Transducers - 20220729\Transducers\Transducers\ITransducers\bin\Release\ITransducers.pdb
+C:\M\PROJ\Transducers - Coletor\Transducers - 20220729\Transducers\Transducers\ITransducers\obj\Release\ITransducers.dll
+C:\M\PROJ\Transducers - Coletor\Transducers - 20220729\Transducers\Transducers\ITransducers\obj\Release\ITransducers.pdb
+C:\M\PROJ\Transducers - Coletor\Transducers - 20220729\Transducers\Transducers\ITransducers\obj\Release\ITransducers.csproj.AssemblyReference.cache
+C:\M\PROJ\Transducers - Coletor\Transducers - 20220729\Transducers\Transducers\ITransducers\obj\Release\ITransducers.csproj.CoreCompileInputs.cache

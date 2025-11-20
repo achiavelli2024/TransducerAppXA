@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\M\\TransducerAppXA\\TransducerAppXA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED167488-E973-4E46-9ACF-0A4F946C3563}|TransducerAppXA\\TransducerAppXA.csproj|C:\\M\\TransducerAppXA\\TransducerAppXA\\transducerappxa\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED167488-E973-4E46-9ACF-0A4F946C3563}|TransducerAppXA\\TransducerAppXA.csproj|solutionrelative:transducerappxa\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED167488-E973-4E46-9ACF-0A4F946C3563}|TransducerAppXA\\TransducerAppXA.csproj|c:\\m\\transducerappxa\\transducerappxa\\transducerappxa\\phoenixtransducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED167488-E973-4E46-9ACF-0A4F946C3563}|TransducerAppXA\\TransducerAppXA.csproj|solutionrelative:transducerappxa\\phoenixtransducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhoenixTransducer.cs",
+              "DocumentMoniker": "C:\\M\\TransducerAppXA\\TransducerAppXA\\TransducerAppXA\\PhoenixTransducer.cs",
+              "RelativeDocumentMoniker": "TransducerAppXA\\PhoenixTransducer.cs",
+              "ToolTip": "C:\\M\\TransducerAppXA\\TransducerAppXA\\TransducerAppXA\\PhoenixTransducer.cs",
+              "RelativeToolTip": "TransducerAppXA\\PhoenixTransducer.cs",
+              "ViewState": "AgIAADcBAAAAAAAAAAAAwDkBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T17:12:18.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\M\\TransducerAppXA\\TransducerAppXA\\TransducerAppXA\\MainActivity.cs",
+              "RelativeDocumentMoniker": "TransducerAppXA\\MainActivity.cs",
+              "ToolTip": "C:\\M\\TransducerAppXA\\TransducerAppXA\\TransducerAppXA\\MainActivity.cs",
+              "RelativeToolTip": "TransducerAppXA\\MainActivity.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAcwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T00:05:55.611Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
