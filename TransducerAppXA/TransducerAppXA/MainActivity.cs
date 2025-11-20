@@ -9,6 +9,7 @@ using Android.Content;
 using Android.OS;
 using Android.Widget;
 using Transducers; // PhoenixTransducer and related types
+//using ITransducers; // delegate and DataResult definitions
 
 namespace TransducerAppXA
 {
@@ -17,12 +18,12 @@ namespace TransducerAppXA
     {
         PhoenixTransducer Trans;
 
-        // UI elements
+        // UI
         EditText txtIP;
-        Button btnConnectIP;
+        Button btnConnect;
         Button btnDisconnect;
         Button btnStartRead;
-        Button btnStopRead;
+        Button btnStop;
         Button btnCopyLog;
         Button btnClearLog;
 
@@ -34,24 +35,29 @@ namespace TransducerAppXA
         EditText txtMaximoTorque;
 
         TextView tvTorque, tvAngle, tvResultsCounter, tvUntighteningsCounter, tvStatus;
-        ListView lvLog;
-        List<string> logItems = new List<string>();
-        ArrayAdapter<string> logAdapter;
+        ScrollView scrollLogContainer;
+        TextView tvLog;
 
-        CancellationTokenSource tailerCts;
+        // internal counters
+        int ResultsCounter = 0;
+        int UntighteningsCounter = 0;
+
         List<object> lastTesteResult = new List<object>();
+        CancellationTokenSource tailerCts;
+
+        const int FIXED_PORT = 23;
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.activity_main);
 
-            // Bind UI (same IDs as you have in layout)
-            txtIP = FindViewById<EditText>(Resource.Id.txtIP);
-            btnConnectIP = FindViewById<Button>(Resource.Id.btnConnectIP);
+            // Bind UI using the IDs that exist in layout (edtIP, btnConnect, etc.)
+            txtIP = FindViewById<EditText>(Resource.Id.edtIP);
+            btnConnect = FindViewById<Button>(Resource.Id.btnConnect);
             btnDisconnect = FindViewById<Button>(Resource.Id.btnDisconnect);
             btnStartRead = FindViewById<Button>(Resource.Id.btnStartRead);
-            btnStopRead = FindViewById<Button>(Resource.Id.btnStopRead);
+            btnStop = FindViewById<Button>(Resource.Id.btnStop);
             btnCopyLog = FindViewById<Button>(Resource.Id.btnCopyLog);
             btnClearLog = FindViewById<Button>(Resource.Id.btnClearLog);
 
@@ -68,64 +74,52 @@ namespace TransducerAppXA
             tvUntighteningsCounter = FindViewById<TextView>(Resource.Id.tvUntighteningsCounter);
             tvStatus = FindViewById<TextView>(Resource.Id.tvStatus);
 
-            lvLog = FindViewById<ListView>(Resource.Id.lvLog);
-            logAdapter = new ArrayAdapter<string>(this, Android.Resource.Layout.SimpleListItem1, logItems);
-            lvLog.Adapter = logAdapter;
+            scrollLogContainer = FindViewById<ScrollView>(Resource.Id.scrollLog);
+            tvLog = FindViewById<TextView>(Resource.Id.tvLog);
 
             // defaults
-            txtThresholdIniFree.Text = "1";
-            txtThresholdEndFree.Text = "1";
-            txtTimeoutFree.Text = "500";
-            txtNominalTorque.Text = "4";
-            txtMinimumTorque.Text = "1";
-            txtMaximoTorque.Text = "10";
+            if (string.IsNullOrWhiteSpace(txtIP?.Text)) txtIP.Text = "192.168.4.1";
+            if (txtThresholdIniFree != null) txtThresholdIniFree.Text = "1";
+            if (txtThresholdEndFree != null) txtThresholdEndFree.Text = "1";
+            if (txtTimeoutFree != null) txtTimeoutFree.Text = "500";
+            if (txtNominalTorque != null) txtNominalTorque.Text = "4";
+            if (txtMinimumTorque != null) txtMinimumTorque.Text = "1";
+            if (txtMaximoTorque != null) txtMaximoTorque.Text = "10";
 
             // wire events
-            btnConnectIP.Click += BtnConnectIP_Click;
-            btnDisconnect.Click += BtnDisconnect_Click;
-            btnStartRead.Click += BtnStartRead_Click;
-            btnStopRead.Click += BtnStopRead_Click;
-            btnCopyLog.Click += BtnCopyLog_Click;
-            btnClearLog.Click += BtnClearLog_Click;
+            if (btnConnect != null) btnConnect.Click += BtnConnect_Click;
+            if (btnDisconnect != null) btnDisconnect.Click += BtnDisconnect_Click;
+            if (btnStartRead != null) btnStartRead.Click += BtnStartRead_Click;
+            if (btnStop != null) btnStop.Click += BtnStop_Click;
+            if (btnCopyLog != null) btnCopyLog.Click += BtnCopyLog_Click;
+            if (btnClearLog != null) btnClearLog.Click += BtnClearLog_Click;
 
-            // subscribe ProtocolFileLogger to show file logs in UI
+            // subscribe to ProtocolFileLogger BEFORE doing test writes
             ProtocolFileLogger.OnLogWritten += ProtocolFileLogger_OnLogWritten;
 
-            // Try to subscribe TransducerLogger as well (best-effort)
+            // best-effort subscribe to internal Transducer logger
             TrySubscribeTransducerLogger();
 
-            AddLog("App initialized. Port fixed to 23; Index and INIT READ hidden from UI.");
+            AddLog("App initialized. Port fixed to 23; preserving transducer logic.");
 
-            // START - TEST that ProtocolFileLogger is working: write a test entry and show FilePath
+            // quick test
             try
             {
                 ProtocolFileLogger.WriteProtocol("SYS", "UI: ProtocolFileLogger test (startup)", null);
-                string fp = ProtocolFileLogger.FilePath;
-                if (!string.IsNullOrEmpty(fp))
-                {
-                    AddLog($"ProtocolFileLogger.FilePath = {fp}");
-                }
-                else
-                {
-                    AddLog("ProtocolFileLogger.FilePath is null or not available (file writes will go to Debug output).");
-                }
+                var p = ProtocolFileLogger.FilePath;
+                AddLog(!string.IsNullOrEmpty(p) ? $"ProtocolFileLogger.FilePath = {p}" : "ProtocolFileLogger.FilePath = (null)");
             }
-            catch (Exception ex)
-            {
-                AddLog("ProtocolFileLogger test write failed: " + ex.Message);
-            }
-            // END TEST
+            catch (Exception ex) { AddLog("ProtocolFileLogger test write failed: " + ex.Message); }
 
-            // start tailer to show protocol files (if exist)
+            // start tailer
             StartLogTailer();
         }
 
-        // ---------- ProtocolFileLogger handler (consistent name) ----------
+        // ProtocolFileLogger handler
         private void ProtocolFileLogger_OnLogWritten(string direction, string text, byte[] raw)
         {
             try
             {
-                // Build formatted "raw" text similar to file so UI matches file content
                 var sb = new StringBuilder();
                 sb.AppendFormat("{0:yyyy-MM-dd HH:mm:ss.fff} [{1}] {2}", DateTime.Now, direction ?? "LOG", text ?? "");
                 sb.AppendLine();
@@ -135,26 +129,23 @@ namespace TransducerAppXA
                     sb.Append(ProtocolFileLogger.ByteArrayToHexString(raw, " "));
                     sb.AppendLine();
                 }
-                sb.AppendLine(new string('-', 50));
+                sb.AppendLine(new string('-', 60));
                 string formatted = sb.ToString();
 
-                // Always show formatted raw line first (so UI contains exactly what was written)
-                AddLogRawToUI(formatted);
+                AppendToUI_Log(formatted);
 
-                // Try to extract telegram in brackets and show highlighted
+                // detect bracketed telegram in text or decoded raw
                 if (!string.IsNullOrEmpty(text))
                 {
                     int a = text.IndexOf('[');
                     int b = text.LastIndexOf(']');
                     if (a >= 0 && b > a)
                     {
-                        string telegram = text.Substring(a + 1, b - a - 1);
-                        AddLogTelegram(direction ?? "LOG", telegram, text);
-                        return;
+                        string telegram = text.Substring(a, b - a + 1);
+                        AppendToUI_Log("TELEGRAMA: " + telegram + System.Environment.NewLine);
                     }
                 }
-
-                if (raw != null && raw.Length > 0)
+                else if (raw != null && raw.Length > 0)
                 {
                     string decoded = null;
                     try { decoded = Encoding.UTF8.GetString(raw); } catch { try { decoded = Encoding.ASCII.GetString(raw); } catch { decoded = null; } }
@@ -164,68 +155,46 @@ namespace TransducerAppXA
                         int b = decoded.LastIndexOf(']');
                         if (a >= 0 && b > a)
                         {
-                            string telegram = decoded.Substring(a + 1, b - a - 1);
-                            AddLogTelegram(direction ?? "RAW", telegram, decoded);
-                            return;
+                            string telegram = decoded.Substring(a, b - a + 1);
+                            AppendToUI_Log("TELEGRAMA: " + telegram + System.Environment.NewLine);
                         }
                     }
                 }
             }
             catch (Exception ex)
             {
-                AddLog("ProtocolFileLogger_OnLogWritten error: " + ex.Message);
+                AppendToUI_Log("ProtocolFileLogger_OnLogWritten error: " + ex.Message + System.Environment.NewLine);
             }
         }
 
-        // Insert the formatted/raw line into the ListView adapter (UI)
-        void AddLogRawToUI(string formattedLine)
+        void AppendToUI_Log(string text)
         {
             RunOnUiThread(() =>
             {
-                // Split into lines and insert at top preserving order
-                var lines = formattedLine.Split(new[] { System.Environment.NewLine }, StringSplitOptions.RemoveEmptyEntries);
-                for (int i = lines.Length - 1; i >= 0; i--)
-                    logItems.Insert(0, lines[i]);
-
-                // Trim
-                while (logItems.Count > 5000) logItems.RemoveAt(logItems.Count - 1);
-
-                logAdapter.NotifyDataSetChanged();
-                try { lvLog.InvalidateViews(); lvLog.SetSelection(0); } catch { }
-            });
-        }
-
-        void AddLogTelegram(string direction, string telegram, string contextText = null)
-        {
-            RunOnUiThread(() =>
-            {
-                string header = $"{DateTime.Now:HH:mm:ss.fff} - {direction}: [{telegram}]";
-                logItems.Insert(0, header);
-                if (!string.IsNullOrEmpty(contextText))
-                    logItems.Insert(0, $"    context: {contextText}");
-                if (logItems.Count > 5000) logItems.RemoveAt(logItems.Count - 1);
-                logAdapter.NotifyDataSetChanged();
-                try { lvLog.InvalidateViews(); lvLog.SetSelection(0); } catch { }
+                try
+                {
+                    if (tvLog != null)
+                    {
+                        tvLog.Append(text);
+                        scrollLogContainer?.Post(() =>
+                        {
+                            try { scrollLogContainer.ScrollTo(0, tvLog.Bottom); } catch { }
+                        });
+                    }
+                }
+                catch { }
             });
         }
 
         void AddLog(string s)
         {
-            RunOnUiThread(() =>
-            {
-                string line = $"{DateTime.Now:HH:mm:ss.fff} - {s}";
-                logItems.Insert(0, line);
-                if (logItems.Count > 5000) logItems.RemoveAt(logItems.Count - 1);
-                logAdapter.NotifyDataSetChanged();
-                try { lvLog.InvalidateViews(); lvLog.SetSelection(0); } catch { }
-            });
+            AppendToUI_Log($"{DateTime.Now:HH:mm:ss.fff} - {s}{System.Environment.NewLine}");
         }
 
         private void TrySubscribeTransducerLogger()
         {
             try
             {
-                // best-effort reflection hook if TransducerLogger exposes a static event OnLogWritten(Action<string>)
                 var type = Type.GetType("Transducer_Estudo.TransducerLogger, Transducer_Estudo") ?? Type.GetType("TransducerLogger");
                 if (type != null)
                 {
@@ -238,20 +207,17 @@ namespace TransducerAppXA
                     }
                 }
             }
-            catch { /* best-effort */ }
+            catch { }
         }
 
         void BtnCopyLog_Click(object sender, EventArgs e)
         {
             try
             {
-                var sb = new StringBuilder();
-                for (int i = logItems.Count - 1; i >= 0; i--) sb.AppendLine(logItems[i]);
-
+                var text = tvLog?.Text ?? "";
                 var clipboard = (ClipboardManager)GetSystemService(ClipboardService) as ClipboardManager;
-                ClipData clip = ClipData.NewPlainText("TransducerLog", sb.ToString());
+                var clip = ClipData.NewPlainText("TransducerLog", text);
                 clipboard.PrimaryClip = clip;
-
                 Toast.MakeText(this, "Log copied to clipboard", ToastLength.Short).Show();
                 ProtocolFileLogger.WriteProtocol("SYS", "UI BUTTON: COPY LOG clicked", null);
             }
@@ -260,12 +226,12 @@ namespace TransducerAppXA
 
         void BtnClearLog_Click(object sender, EventArgs e)
         {
-            RunOnUiThread(() => { logItems.Clear(); logAdapter.NotifyDataSetChanged(); });
+            RunOnUiThread(() => { if (tvLog != null) tvLog.Text = ""; });
             ProtocolFileLogger.WriteProtocol("SYS", "UI BUTTON: CLEAR LOG clicked", null);
             AddLog("Log cleared (UI)");
         }
 
-        // Tailer: reads files from Logs/ and pushes lines into UI (keeps behaviour)
+        // Tailer
         void StartLogTailer()
         {
             StopLogTailer();
@@ -274,7 +240,7 @@ namespace TransducerAppXA
 
             Task.Run(async () =>
             {
-                List<string> candidates = new List<string>();
+                var candidates = new List<string>();
                 try
                 {
                     var appFiles = FilesDir?.AbsolutePath;
@@ -324,7 +290,7 @@ namespace TransducerAppXA
 
                         if (newest == null)
                         {
-                            await Task.Delay(800, ct).ContinueWith(t => { });
+                            await Task.Delay(800, ct).ConfigureAwait(false);
                             continue;
                         }
 
@@ -342,44 +308,25 @@ namespace TransducerAppXA
                             catch (Exception ex)
                             {
                                 AddLog("LogTailer open error: " + ex.Message);
-                                await Task.Delay(1000, ct).ContinueWith(t => { });
+                                await Task.Delay(1000, ct).ConfigureAwait(false);
                                 continue;
                             }
                         }
 
                         bool had = false;
                         string line;
-                        while ((line = await sr.ReadLineAsync()) != null)
+                        while ((line = await sr.ReadLineAsync().ConfigureAwait(false)) != null)
                         {
                             had = true;
-                            int f = line.IndexOf('[');
-                            int l = line.LastIndexOf(']');
-                            if (f >= 0 && l > f)
-                            {
-                                string telegram = line.Substring(f + 1, l - f - 1);
-                                string dir = "FILE";
-                                if (line.IndexOf("TX", StringComparison.OrdinalIgnoreCase) >= 0) dir = "TX";
-                                else if (line.IndexOf("RX", StringComparison.OrdinalIgnoreCase) >= 0) dir = "RX";
-
-                                // Insert raw file line and highlighted telegram
-                                AddLogRawToUI(line);
-                                AddLogTelegram(dir, telegram, line);
-                            }
-                            else
-                            {
-                                AddLog("FILE: " + line);
-                            }
+                            AppendToUI_Log(line + System.Environment.NewLine);
                         }
 
-                        if (!had) await Task.Delay(250, ct).ContinueWith(t => { });
+                        if (!had) await Task.Delay(250, ct).ConfigureAwait(false);
                     }
                 }
                 catch (System.OperationCanceledException) { }
                 catch (Exception ex) { AddLog("LogTailer error: " + ex.Message); }
-                finally
-                {
-                    try { sr?.Dispose(); fs?.Dispose(); } catch { }
-                }
+                finally { try { sr?.Dispose(); fs?.Dispose(); } catch { } }
             }, ct);
         }
 
@@ -388,25 +335,32 @@ namespace TransducerAppXA
             try { tailerCts?.Cancel(); tailerCts = null; } catch { }
         }
 
-        // UI actions (logic unchanged)
-        private void BtnConnectIP_Click(object sender, EventArgs e)
+        // Connection / control
+        private void BtnConnect_Click(object sender, EventArgs e)
         {
             try
             {
                 string ip = txtIP.Text?.Trim() ?? "";
-                int port = 23; // fixed
-                AddLog($"btnConnectIP_Click - connecting to {ip}:{port}");
-                ProtocolFileLogger.WriteProtocol("SYS", $"UI BUTTON: CONNECT {ip}:{port}", null);
+                if (string.IsNullOrWhiteSpace(ip))
+                {
+                    Toast.MakeText(this, "Informe IP válido", ToastLength.Short).Show();
+                    return;
+                }
+
+                AddLog($"UI: CONNECT -> {ip}:{FIXED_PORT}");
+                ProtocolFileLogger.WriteProtocol("SYS", $"UI BUTTON: CONNECT {ip}:{FIXED_PORT}", null);
 
                 if (Trans != null)
                 {
-                    AddLog("Stopping previous transducer");
+                    AddLog("Stopping previous transducer instance");
                     try { Trans.StopReadData(); Trans.StopService(); } catch { }
+                    Trans = null;
                 }
 
                 Trans = new PhoenixTransducer();
                 Trans.bPrintCommToFile = true;
 
+                // subscribe to events using ITransducers delegates
                 Trans.DataResult += new DataResultReceiver(ResultReceiver);
                 Trans.TesteResult += new DataTesteResultReceiver(TesteResultReceiver);
                 Trans.DataInformation += new DataInformationReceiver(DataInformationReceiver);
@@ -414,30 +368,44 @@ namespace TransducerAppXA
 
                 Trans.SetPerformance(ePCSpeed.Slow, eCharPoints.Many);
                 Trans.Eth_IP = ip;
-                Trans.Eth_Port = port;
+                Trans.Eth_Port = FIXED_PORT;
 
                 AddLog("Starting service and communication");
-                Trans.StartService();
-                Trans.StartCommunication();
-                Trans.RequestInformation();
+                Task.Run(() =>
+                {
+                    try
+                    {
+                        Trans.StartService();
+                        Thread.Sleep(50);
+                        Trans.StartCommunication();
+                        Trans.RequestInformation();
+                        ProtocolFileLogger.WriteProtocol("SYS", "StartCommunication & RequestInformation invoked", null);
+                    }
+                    catch (Exception ex)
+                    {
+                        ProtocolFileLogger.WriteProtocol("SYS", "StartService error: " + ex.Message, null);
+                    }
+                });
 
-                tvStatus.Text = "Status: Connecting";
+                RunOnUiThread(() => tvStatus.Text = "Status: Connecting");
             }
-            catch (Exception ex) { AddLog("BtnConnectIP_Click error: " + ex.Message); ProtocolFileLogger.WriteProtocol("SYS", "btnConnectIP_Click error: " + ex.Message, null); }
+            catch (Exception ex)
+            {
+                AddLog("BtnConnect_Click error: " + ex.Message);
+                ProtocolFileLogger.WriteProtocol("SYS", "BtnConnect_Click error: " + ex.Message, null);
+            }
         }
 
         private void BtnDisconnect_Click(object sender, EventArgs e)
         {
             try
             {
-                AddLog("btnDisconnect_Click - stopping service");
                 ProtocolFileLogger.WriteProtocol("SYS", "UI BUTTON: DISCONNECT clicked", null);
-                if (Trans != null)
-                {
-                    try { Trans.StopReadData(); Trans.StopService(); } catch { }
-                    Trans = null;
-                }
-                tvStatus.Text = "Status: Disconnected";
+                Trans?.StopReadData();
+                Trans?.StopService();
+                Trans = null;
+                RunOnUiThread(() => tvStatus.Text = "Status: Disconnected");
+                AddLog("Disconnected");
             }
             catch (Exception ex) { AddLog("BtnDisconnect_Click error: " + ex.Message); }
         }
@@ -447,47 +415,71 @@ namespace TransducerAppXA
             try
             {
                 if (Trans == null) { AddLog("StartRead: Trans not connected"); return; }
-                AddLog("BtnStartRead_Click - calling StartReadData");
+                AddLog("UI: START READ");
                 ProtocolFileLogger.WriteProtocol("SYS", "UI BUTTON: START READ clicked", null);
                 Trans.StartReadData();
-                tvStatus.Text = "Status: Waiting for acquisition";
+                RunOnUiThread(() => tvStatus.Text = "Status: Waiting for acquisition");
             }
             catch (Exception ex) { AddLog("BtnStartRead_Click error: " + ex.Message); }
         }
 
-        private void BtnStopRead_Click(object sender, EventArgs e)
+        private void BtnStop_Click(object sender, EventArgs e)
         {
             try
             {
                 if (Trans == null) return;
-                AddLog("BtnStopRead_Click - calling StopReadData");
+                AddLog("UI: STOP READ");
                 ProtocolFileLogger.WriteProtocol("SYS", "UI BUTTON: STOP clicked", null);
                 Trans.StopReadData();
-                tvStatus.Text = "Status: Stopped";
+                RunOnUiThread(() => tvStatus.Text = "Status: Stopped");
             }
-            catch (Exception ex) { AddLog("BtnStopRead_Click error: " + ex.Message); }
+            catch (Exception ex) { AddLog("BtnStop_Click error: " + ex.Message); }
         }
 
-        // Event handlers (kept)
+        // Event handlers
+        private void ResultReceiver(DataResult Data)
+        {
+            AddLog($"EVENT: ResultReceiver invoked - Type={Data?.Type} Torque={Data?.Torque} Angle={Data?.Angle}");
+            RunOnUiThread(() =>
+            {
+                try
+                {
+                    if (tvTorque != null) tvTorque.Text = $"{Data.Torque} Nm";
+                    if (tvAngle != null) tvAngle.Text = $"{Data.Angle} º";
+                }
+                catch { }
+            });
+        }
+
         private void TesteResultReceiver(List<DataResult> Result)
         {
-            AddLog($"TesteResultReceiver called - count {Result?.Count ?? 0}");
-            DataResult Data = Result?.Find(x => x.Type == "FR");
-            if (Data == null)
+            AddLog($"EVENT: TesteResultReceiver invoked - count {Result?.Count ?? 0}");
+            if (Result == null || Result.Count == 0)
             {
-                AddLog("TesteResultReceiver: FR not found => increment untightenings and re-init");
-                RunOnUiThread(() => tvUntighteningsCounter.Text = (int.Parse(tvUntighteningsCounter.Text) + 1).ToString());
+                AddLog("TesteResultReceiver: empty list received");
+                return;
+            }
+
+            var fr = Result.Find(x => x.Type == "FR");
+            if (fr == null)
+            {
+                AddLog("TesteResultReceiver: FR not found -> treating as untighten");
+                UntighteningsCounter++;
+                RunOnUiThread(() => tvUntighteningsCounter.Text = UntighteningsCounter.ToString());
                 _ = InitReadInternalAsync();
                 return;
             }
 
-            AddLog($"TesteResultReceiver: FR - Torque={Data.Torque} Angle={Data.Angle}");
+            ResultsCounter++;
             RunOnUiThread(() =>
             {
-                tvResultsCounter.Text = (int.Parse(tvResultsCounter.Text) + 1).ToString();
-                tvTorque.Text = $"{Data.Torque} Nm";
-                tvAngle.Text = $"{Data.Angle} º";
+                tvResultsCounter.Text = ResultsCounter.ToString();
+                tvTorque.Text = $"{fr.Torque} Nm";
+                tvAngle.Text = $"{fr.Angle} º";
+                tvStatus.Text = "Test completed";
             });
+
+            AddLog($"TesteResultReceiver: FR - Torque={fr.Torque} Angle={fr.Angle} (ResultsCounter={ResultsCounter})");
 
             lastTesteResult.Clear();
             foreach (var r in Result) lastTesteResult.Add(r);
@@ -495,24 +487,14 @@ namespace TransducerAppXA
             _ = InitReadInternalAsync();
         }
 
-        private void ResultReceiver(DataResult Data)
-        {
-            AddLog($"ResultReceiver called - Torque={Data.Torque} Angle={Data.Angle}");
-            RunOnUiThread(() =>
-            {
-                tvTorque.Text = $"{Data.Torque} Nm";
-                tvAngle.Text = $"{Data.Angle} º";
-            });
-        }
-
         private void DataInformationReceiver(DataInformation info)
         {
-            AddLog($"DataInformation received - HardID={info.HardID} FullScale={info.FullScale} TorqueLimit={info.TorqueLimit}");
+            AddLog($"EVENT: DataInformation received - HardID={info?.HardID} FullScale={info?.FullScale} TorqueLimit={info?.TorqueLimit}");
         }
 
         private void DebugInformationReceiver(DebugInformation dbg)
         {
-            AddLog($"DebugInformation - State={dbg.State} Error={dbg.Error}");
+            AddLog($"EVENT: DebugInformation - State={dbg?.State} Error={dbg?.Error}");
         }
 
         private async Task InitReadInternalAsync()
@@ -584,7 +566,7 @@ namespace TransducerAppXA
                 AddLog("InitRead: StartReadData");
                 ProtocolFileLogger.WriteProtocol("SYS", "InitRead: StartReadData", null);
                 Trans.StartReadData();
-                tvStatus.Text = "Status: Acquisition started";
+                RunOnUiThread(() => tvStatus.Text = "Status: Acquisition started");
             }
             catch (Exception ex) { AddLog("InitReadInternal error: " + ex.Message); }
         }

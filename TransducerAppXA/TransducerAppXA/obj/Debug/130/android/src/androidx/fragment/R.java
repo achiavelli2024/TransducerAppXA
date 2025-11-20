@@ -115,8 +115,8 @@ public final class R {
 		public static final int actions = 0x7f080039;
 		public static final int async = 0x7f08003f;
 		public static final int blocking = 0x7f080042;
-		public static final int chronometer = 0x7f080056;
-		public static final int dialog_button = 0x7f080067;
+		public static final int chronometer = 0x7f080055;
+		public static final int dialog_button = 0x7f080066;
 		public static final int forever = 0x7f080075;
 		public static final int fragment_container_view_tag = 0x7f080076;
 		public static final int icon = 0x7f08007c;
@@ -125,12 +125,12 @@ public final class R {
 		public static final int italic = 0x7f080081;
 		public static final int line1 = 0x7f080086;
 		public static final int line3 = 0x7f080087;
-		public static final int normal = 0x7f080095;
-		public static final int notification_background = 0x7f080096;
-		public static final int notification_main_column = 0x7f080097;
-		public static final int notification_main_column_container = 0x7f080098;
-		public static final int right_icon = 0x7f0800a4;
-		public static final int right_side = 0x7f0800a5;
+		public static final int normal = 0x7f080094;
+		public static final int notification_background = 0x7f080095;
+		public static final int notification_main_column = 0x7f080096;
+		public static final int notification_main_column_container = 0x7f080097;
+		public static final int right_icon = 0x7f0800a3;
+		public static final int right_side = 0x7f0800a4;
 		public static final int tag_accessibility_actions = 0x7f0800cd;
 		public static final int tag_accessibility_clickable_spans = 0x7f0800ce;
 		public static final int tag_accessibility_heading = 0x7f0800cf;
@@ -143,7 +143,7 @@ public final class R {
 		public static final int text2 = 0x7f0800d6;
 		public static final int time = 0x7f0800de;
 		public static final int title = 0x7f0800df;
-		public static final int visible_removing_fragment_view_tag = 0x7f080101;
+		public static final int visible_removing_fragment_view_tag = 0x7f080102;
 	}
 	public static final class integer {
 		public static final int status_bar_notification_info_maxnum = 0x7f09000e;

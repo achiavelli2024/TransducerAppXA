@@ -18,7 +18,6 @@ item;obj\Debug\130\res\menu\menu_main.xml
 item;obj\Debug\130\res\values\styles.xml
 LinearLayout;obj\Debug\130\res\layout\activity_main.xml
 LinearLayout;obj\Debug\130\res\layout\content_main.xml
-ListView;obj\Debug\130\res\layout\activity_main.xml
 menu;obj\Debug\130\res\menu\menu_main.xml
 paths;C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
 resources;obj\Debug\130\res\values\colors.xml
@@ -26,6 +25,7 @@ resources;obj\Debug\130\res\values\dimens.xml
 resources;obj\Debug\130\res\values\ic_launcher_background.xml
 resources;obj\Debug\130\res\values\strings.xml
 resources;obj\Debug\130\res\values\styles.xml
+ScrollView;obj\Debug\130\res\layout\activity_main.xml
 string;obj\Debug\130\res\values\strings.xml
 style;obj\Debug\130\res\values\styles.xml
 TextView;obj\Debug\130\res\layout\activity_main.xml
