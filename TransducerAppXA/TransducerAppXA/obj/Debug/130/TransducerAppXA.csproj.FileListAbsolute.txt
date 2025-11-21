@@ -1,10 +1,3 @@
-C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\bin\Debug\TransducerAppXA.dll
-C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\bin\Debug\TransducerAppXA.pdb
-C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\bin\Debug\com.companyname.transducerappxa.apk
-C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\bin\Debug\com.companyname.transducerappxa.aab
-C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\bin\Debug\com.companyname.transducerappxa-Signed.aab
-C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\bin\Debug\com.companyname.transducerappxa-Signed.apk
-C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\bin\Debug\com.companyname.transducerappxa-Signed.apk.idsig
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\MonoAndroid,Version=v13.0.AssemblyAttributes.cs
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\build.props
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\adb.props
@@ -27,6 +20,13 @@ C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\lp\74\jl\file
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\R.txt
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\R.cs.flag
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\TransducerAppXA.csproj.CoreCompileInputs.cache
+C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\bin\Debug\TransducerAppXA.dll
+C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\bin\Debug\TransducerAppXA.pdb
+C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\bin\Debug\com.companyname.transducerappxa.apk
+C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\bin\Debug\com.companyname.transducerappxa.aab
+C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\bin\Debug\com.companyname.transducerappxa-Signed.aab
+C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\bin\Debug\com.companyname.transducerappxa-Signed.apk
+C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\bin\Debug\com.companyname.transducerappxa-Signed.apk.idsig
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\TransducerAppXA.dll
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\TransducerAppXA.pdb
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\android\bin\com.companyname.transducerappxa.apk
@@ -58,6 +58,9 @@ C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\res\mipmap-xx
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\res\mipmap-xxxhdpi\ic_launcher.png
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\res\mipmap-xxxhdpi\ic_launcher_foreground.png
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\res\mipmap-xxxhdpi\ic_launcher_round.png
+C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\res\layout\layout-sw600dp\activity_main.xml
+C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\res\layout\log_item.xml
+C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\res\layout\result_item.xml
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\uploadflags.txt
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\resolvedassemblies.hash
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\android\assets\Java.Interop.dll
@@ -315,3 +318,4 @@ C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\stamp\_Conver
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+C:\M\TransducerAppXA\TransducerAppXA\TransducerAppXA\obj\Debug\130\android\src\crc64d4bf71c1e765891b\MainActivity_CustomStringAdapter.java
